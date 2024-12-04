@@ -21,4 +21,4 @@ Throughout the duration, residents will be invited to host knowledge sharing ses
 
 The residency will culminate in a demo day, where residents share their outputs and processes. Outputs may include code prototypes, workshops and research reports, and educational communications and materials. The organising team will compile these outputs in the form of a written publication.
 
-*Contact: https://github.com/community-privacy/community-privacy.github.io/issues/new*
+[Reach out to us by creating a GitHub issue.](https://github.com/community-privacy/community-privacy.github.io/issues/new)
