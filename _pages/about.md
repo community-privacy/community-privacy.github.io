@@ -1,22 +1,4 @@
----
-layout: about
-title: about
-permalink: /
-subtitle: A 2-4 week residency focused on researching, co-designing, prototyping, and building open-source applications for community privacy, with emphasis on Applications for Vulnerable Communities, Community Co-Design, and Privacy Infrastructure. 
-
-profile:
-  align: right
-  image: community.png
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
----
+*A 2-4 week residency focused on researching, co-designing, prototyping, and building open-source applications for community privacy, with emphasis on Applications for Vulnerable Communities, Community Co-Design, and Privacy Infrastructure.*
 
 As privacy-preserving applications mature beyond the infrastructure layer to reach end-users, it is crucial to anchor their design in the needs of real-world users. This residency invites researchers and builders to explore user-centric methodologies like participatory design and participatory threat modelling, in conversation with the privacy needs of communities and marginalised groups.
 
