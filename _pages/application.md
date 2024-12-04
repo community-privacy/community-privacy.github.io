@@ -2,7 +2,7 @@
 layout: page
 permalink: /application/
 title: application
-description: Application form for the Community Privacy Residency (2025)
+description: We invite community builders, engineers, designers, cryptographers, researchers, technologists, labor organizers, journalists, members of vulnerable communities, and advocates for digital safety, bodily autonomy, privacy, and more to apply.
 nav: true
 nav_order: 2
 ---
