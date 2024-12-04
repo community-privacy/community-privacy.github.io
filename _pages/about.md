@@ -15,8 +15,10 @@ As privacy-preserving applications mature beyond the infrastructure layer to rea
 
 This residency will build community, organize events, and create original work and research promoting open-source applications of privacy and cryptography tools in collaboration with vulnerable communities.
 
-Residents will be invited to engage with sessions at RightsCon (Feb 24 - 27, 2025) on collective approaches to privacy and data protection; community resilience against surveillance; digital rights for marginalised communities; and more.
+Residents will be invited to engage with sessions at [RightsCon](https://www.rightscon.org/program/) (Feb 24 - 27, 2025) on collective approaches to privacy and data protection; community resilience against surveillance; digital rights for marginalised communities; and more.
 
 Throughout the duration, residents will be invited to host knowledge sharing sessions and interactive workshops. The organising team will also invite local communities in Taipei (e.g. Plurality, EthTaipei, [zkTaipei](https://x.com/zktaipei), [g0v](https://g0v.tw/intl/en/), [MODA](https://moda.gov.tw/en/)) to attend and host sessions.
 
 The residency will culminate in a demo day, where residents share their outputs and processes. Outputs may include code prototypes, workshops and research reports, and educational communications and materials. The organising team will compile these outputs in the form of a written publication.
+
+*Contact: https://github.com/community-privacy/community-privacy.github.io/issues/new*
