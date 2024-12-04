@@ -12,28 +12,24 @@ The theme of the residency will be "community privacy," i.e. privacy and cryptog
 
 Below are proposed project tracks and example project ideas under community privacy that the organizers have put together and will present to residency participants. We also expect some flexibility and potential for new tracks relevant to these themes to emerge throughout the residency.
 
-### Community Applications for Vulnerable Groups
-
-- Updating [Callisto Vault](https://www.projectcallisto.org/callistovault) with zkEmail, MP-FHE
-- Privacy-preserving payments for people in professions where privacy is a matter of personal safety
-- Privacy-preserving coordination tools, e.g. MPC/MP-FHE for unions and labor organizers
-- Privacy-preserving reporting tools, e.g. for reporting abuse, whistleblowing
+### Applications for Vulnerable Communities
+- building privacy-preserving coordination tools, such as using MPC/MP-FHE for whistleblowing, labor strikes, or reporting abuse 
+- compiling a privacy guide for vulnerable communities, with specific tools and use cases 
+- analyzing data using multi-party statistics libraries for a specific community with privacy needs 
+- updating [Callisto Vault](https://www.projectcallisto.org/callistovault) with zkEmail, MP-FHE
 
 ### Community Co-Design
-
-- Facilitating participatory co-design sessions
-- Interface design and mockups for consent interfaces
-- Threat modeling
-    - Overview of frameworks, e.g.:
-        - [Invariant-Centric Threat Modelling](https://github.com/defuse/ictm)
-        - "[On Privacy Notions in Secure Communication](https://www.freehaven.net/anonbib/cache/notions-pets2019.pdf)"
-- Participatory co-design for collective data governance interfaces
-- Cryptography-backed consent: Collective consent mechanisms, co-design for consent mechanisms
+- facilitating a participatory co-design session with a specific community or topic, e.g. non-consensual media abuse, privacy needs for labor organizing or journalism, data autonomy for intimate digital media, data strikes 
+- conducting UX research, user interviews, or creating mockups for consent interfaces 
+- gathering feedback on existing privacy tools, social media platforms, or applications and identifying gaps in safety features and privacy needs 
+- documenting threat models, e.g.:
+    - [Invariant-Centric Threat Modelling](https://github.com/defuse/ictm)
+    - "[On Privacy Notions in Secure Communication](https://www.freehaven.net/anonbib/cache/notions-pets2019.pdf)"
 
 ### Privacy Infrastructure
-
-- [MPCStats or MP-FHE statistics library](https://docs.google.com/document/d/1r6DiFdMV6auFvXDAMeA-SKcZK21JiSl0fgUOveN2UKM/edit?usp=sharing), data analysis on sensitive information for vulnerable communities
-- Integrations with Polis and verifiable ID - private messaging boards, private majority reports, hierarchy of opinions (e.g. concept of expert analyses)
+- publishing a project boilerplate, writing a tutorial, or adding technical documentation for an existing cryptographic framework, e.g. zero-knowledge, multi-party computation, fully homomorphic encryption, or proof-carrying data 
+- integrating verifiable ID into community governance platforms, e.g. Polis, for private messaging boards, private majority reports, hierarchy of opinions (e.g. concept of expert analyses)
+- testing or auditing existing data provenance tools 
 
 ## Expected Outputs
 
@@ -44,7 +40,7 @@ In addition to building community and organizing events for privacy, cryptograph
 - Development of **educational resources** and guides, e.g. publications or public-facing workshops
 - **Participatory co-design workshops**, including write-ups of learnings and takeaways, and process documentation
 
-Sharing of outputs would include:
+We will facilitate publically sharable outputs such as:
 
 - Sharing sessions and **workshares** from residents and local Taipei communities
 - **Demo day** on the last day
