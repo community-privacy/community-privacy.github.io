@@ -10,6 +10,8 @@ horizontal: false
 ---
 The theme of the residency will be "community privacy," i.e. privacy and cryptography tools that protect and empower communities from the ground up. Community privacy means creating safe spaces for vulnerable communities to live, share, organize, and interact with those outside their community.
 
+## Project Tracks
+
 Below are proposed project tracks and example project ideas under community privacy that the organizers have put together and will present to residency participants. We also expect some flexibility and potential for new tracks relevant to these themes to emerge throughout the residency.
 
 ### Applications for Vulnerable Communities
@@ -42,6 +44,6 @@ In addition to building community and organizing events for privacy, cryptograph
 
 We will facilitate publically sharable outputs such as:
 
-- Sharing sessions and **workshares** from residents and local Taipei communities
+- **Community workshops and workshares** from residents and local Taipei communities
 - **Demo day** on the last day
 - **Written publication** collating outputs: progress reports, new projects, publications, documentation, etc.
