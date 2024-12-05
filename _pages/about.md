@@ -15,7 +15,7 @@ As privacy-preserving applications mature beyond the infrastructure layer to rea
 
 We invite community builders, engineers, designers, cryptographers, researchers, technologists, labor organizers, journalists, members of vulnerable communities, and advocates for digital safety, bodily autonomy, privacy, and more to join us. 
 
-**Residency Info**
+#### Residency Info
 - Residency Dates: 2/22/2025 - 3/22/2025
 - Location: Taipei, Taiwan
 
