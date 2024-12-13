@@ -36,24 +36,29 @@ Currently, we run some checks to ensure that the code quality and generated site
 To set these up:
 
 [Prettier](https://prettier.io/):
+
 ```
 $ npm install --save-dev --save-exact prettier # Install prettier
 $ npx prettier . --write # Run prettier
 ```
 
 [lychee](https://lychee.cli.rs/): (This took too long to install for me lol so I skipped it personally... -RW)
+
 ```
-$ brew install lychee # Install lychee 
-$ lychee . # Run lychee 
+$ brew install lychee # Install lychee
+$ lychee . # Run lychee
 ```
 
 [Axe](https://github.com/dequelabs/axe-core):
+
 ```
 $ npm install axe-core --save-dev
 ```
 
 ## Dev notes
-For searching `"SEARCH TERM"`: (remove quotes) 
+
+For searching `"SEARCH TERM"`: (remove quotes)
+
 ```
 $ grep -r --exclude-dir=vendor --exclude-dir=_site --exclude-dir=assets --exclude-dir=node_modules --exclude-dir=lighthouse_results "SEARCH TERM"
 ```
@@ -66,4 +71,3 @@ Before pushing changes:
 # Lint and prettify code
 $ npx prettier --write .
 ```
-
