@@ -52,6 +52,12 @@ $ lychee . # Run lychee
 $ npm install axe-core --save-dev
 ```
 
+## Dev notes
+For searching `"SEARCH TERM"`: (remove quotes) 
+```
+$ grep -r --exclude-dir=vendor --exclude-dir=_site --exclude-dir=assets --exclude-dir=node_modules --exclude-dir=lighthouse_results "SEARCH TERM"
+```
+
 ## Pushing Changes
 
 Before pushing changes:
