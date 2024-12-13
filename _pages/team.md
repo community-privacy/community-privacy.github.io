@@ -8,7 +8,7 @@ nav_order: 3
 
 #### Ying Tong
 
-[Ying Tong](https://github.com/therealyingtong) is an applied cryptographer working on zero-knowledge proofs and multi-party computation. She is a regular contributor to community and educational initiatives (e.g. https://zkiap.com, https://halo2.club), as well as standards efforts (https://zkproof.org).
+[Ying Tong](https://github.com/therealyingtong) is an applied cryptographer working on zero-knowledge proofs and multi-party computation. She is a regular contributor to community and educational initiatives (e.g. [zkiap.com](https://zkiap.com), [halo2.club](https://halo2.club)), as well as standards efforts ([zkproof.org](https://zkproof.org)).
 
 #### Riley Wong
 
