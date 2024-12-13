@@ -3,7 +3,7 @@ layout: page
 permalink: /schedule/
 title: schedule
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 Throughout the month, we encourage residents to host knowledge-shares, self-organize on emergent topics of interest, and collaborate.
