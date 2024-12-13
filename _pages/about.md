@@ -71,4 +71,3 @@ We will facilitate publically sharable outputs such as:
 - **Community workshops and workshares** from residents and local Taipei communities
 - **Demo day** on the last day
 - **Written publication** collating outputs: progress reports, new projects, publications, documentation, etc.
-

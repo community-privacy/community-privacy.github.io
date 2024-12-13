@@ -1,8 +1,8 @@
 # Community Privacy
 
-Website for Community Privacy. Site uses [al-folio](https://github.com/alshedivat/al-folio) template. 
+Website for Community Privacy. Site uses [al-folio](https://github.com/alshedivat/al-folio) template.
 
-`$ bundle exec jekyll serve` to run locally. 
+`$ bundle exec jekyll serve` to run locally.
 
 ## Setup
 
