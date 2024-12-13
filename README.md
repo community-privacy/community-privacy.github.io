@@ -19,3 +19,10 @@ $ bundle exec jekyll serve
 Open your browser and go to `http://localhost:4000`.
 
 For additional installation and deployment details please refer to [INSTALL.md](INSTALL.md).
+
+## Pushing Changes 
+Before pushing changes: 
+```
+# Lint and prettify code
+$ npx prettier --write .
+```
