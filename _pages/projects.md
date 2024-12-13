@@ -1,17 +1,15 @@
----
+<!-- ---
 layout: page
 title: project tracks
 permalink: /projects/
 description:
 nav: true
-nav_order: 2
+nav_order: 1
 display_categories: [work, fun]
 horizontal: false
 ---
 
 The theme of the residency will be "community privacy," i.e. privacy and cryptography tools that protect and empower communities from the ground up. Community privacy means creating safe spaces for vulnerable communities to live, share, organize, and interact with those outside their community.
-
-## Project Tracks
 
 Below are proposed project tracks and example project ideas under community privacy that the organizers have put together and will present to residency participants. We also expect some flexibility and potential for new tracks relevant to these themes to emerge throughout the residency.
 
@@ -51,3 +49,4 @@ We will facilitate publically sharable outputs such as:
 - **Community workshops and workshares** from residents and local Taipei communities
 - **Demo day** on the last day
 - **Written publication** collating outputs: progress reports, new projects, publications, documentation, etc.
+    -->

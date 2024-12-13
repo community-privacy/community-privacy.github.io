@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /schedule/
 title: schedule
@@ -39,3 +39,4 @@ The primary focus of week 4 will be finishing up heads-down project work and shi
 - Project documentation
 - Demo day and presentations
 - End of residency community social
+    -->
