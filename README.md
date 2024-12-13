@@ -25,6 +25,33 @@ Open your browser and go to `http://localhost:4000`.
 
 For additional installation and deployment details please refer to [INSTALL.md](INSTALL.md).
 
+### Code quality checks
+
+Currently, we run some checks to ensure that the code quality and generated site are good. The checks are done using GitHub Actions and the following tools:
+
+- [Prettier](https://prettier.io/) - check if the formatting of the code follows the style guide
+- [lychee](https://lychee.cli.rs/) - check for broken links
+- [Axe](https://github.com/dequelabs/axe-core) (need to run manually) - do some accessibility testing
+
+To set these up:
+
+[Prettier](https://prettier.io/):
+```
+$ npm install --save-dev --save-exact prettier # Install prettier
+$ npx prettier . --write # Run prettier
+```
+
+[lychee](https://lychee.cli.rs/): (This took too long to install for me lol so I skipped it personally... -RW)
+```
+$ brew install lychee # Install lychee 
+$ lychee . # Run lychee 
+```
+
+[Axe](https://github.com/dequelabs/axe-core):
+```
+$ npm install axe-core --save-dev
+```
+
 ## Pushing Changes
 
 Before pushing changes:
@@ -33,3 +60,4 @@ Before pushing changes:
 # Lint and prettify code
 $ npx prettier --write .
 ```
+
