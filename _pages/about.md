@@ -72,4 +72,3 @@ We will facilitate publically sharable outputs such as:
 - **Demo day** on the last day
 - **Written publication** collating outputs: progress reports, new projects, publications, documentation, etc.
 
-[Reach out to us by creating a GitHub issue.](https://github.com/community-privacy/community-privacy.github.io/issues/new)
