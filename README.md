@@ -12,7 +12,8 @@ Website for Community Privacy. Site uses [al-folio](https://github.com/alshediva
 $ git clone git@github.com:community-privacy/community-privacy.github.io.git
 ```
 
-As of 12/13/24, there is an [error](https://github.com/alshedivat/al-folio/issues/2880) with the docker image, so we will use the local setup:
+2. Local setup
+(As of 12/13/24, there is an [error](https://github.com/alshedivat/al-folio/issues/2880) with the docker image on the forked repo.) 
 
 ```
 $ bundle install
@@ -21,7 +22,7 @@ $ pip install jupyter
 $ bundle exec jekyll serve
 ```
 
-Open your browser and go to `http://localhost:4000`.
+3. Open your browser and go to `http://localhost:4000`.
 
 For additional installation and deployment details please refer to [INSTALL.md](INSTALL.md).
 
