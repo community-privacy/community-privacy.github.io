@@ -9,7 +9,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-**A 2-4 week residency focused on researching, co-designing, prototyping, and building open-source applications for community privacy, with emphasis on Applications for Vulnerable Communities, Community Co-Design, and Privacy Infrastructure. [Applications due January 5, 2025.](https://airtable.com/appqz1LytVCVxTw3z/pagqSIwADrFRVIPl3/form)**
+**A 2-4 week residency focused on researching, co-designing, prototyping, and building open-source applications for community privacy, with emphasis on Applications for Vulnerable Communities, Community Co-Design, and Privacy Infrastructure. [Applications due January 7, 2025.](https://airtable.com/appqz1LytVCVxTw3z/pagqSIwADrFRVIPl3/form)**
 
 As privacy-preserving applications mature beyond the infrastructure layer to reach end-users, it is crucial to anchor their design in the needs of real-world users. This residency brings together researchers, builders, and community members to explore user-centric methodologies like participatory design and participatory threat modelling, in conversation with the privacy needs of marginalised groups.
 
