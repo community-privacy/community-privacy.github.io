@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /team/
-title: Team
+title: team
 nav: true
 nav_order: 3
 ---
