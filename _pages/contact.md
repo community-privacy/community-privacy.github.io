@@ -13,17 +13,17 @@ We're always looking for opportunities to collaborate with the broader ecosystem
 #### Ying Tong Lai
 
 - Email: [yingtong.lai@gmail.com](mailto:yingtong.lai@gmail.com)
-- Telegram: [@aubreymoss](t.me/aubreymoss)
+- Telegram: [@aubreymoss](https://t.me/aubreymoss)
 
 #### Riley Wong (they/them) – emergentresearch.net
 
 - Email: [rileynwong@gmail.com](mailto:rileynwong@gmail.com)
-- Telegram: [@rrriley](t.me/rrriley)
+- Telegram: [@rrriley](https://t.me/rrriley)
 
 #### Janabel Xia (she/her) - janabelx.com
 
 - Email: [janabeltxia@gmail.com](mailto:janabeltxia@gmail.com)
-- Telegram: [@janabelx](t.me/janabelx)
+- Telegram: [@janabelx](https://t.me/janabelx)
 
 ## Support Us
 
