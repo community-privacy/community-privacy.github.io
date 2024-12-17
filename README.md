@@ -13,7 +13,7 @@ $ git clone git@github.com:community-privacy/community-privacy.github.io.git
 ```
 
 2. Local setup
-(As of 12/13/24, there is an [error](https://github.com/alshedivat/al-folio/issues/2880) with the docker image on the forked repo.) 
+   (As of 12/13/24, there is an [error](https://github.com/alshedivat/al-folio/issues/2880) with the docker image on the forked repo.)
 
 ```
 $ bundle install
