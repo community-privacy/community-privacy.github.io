@@ -6,11 +6,11 @@ nav: true
 nav_order: 4
 ---
 
-#### Ying Tong
+#### >> Ying Tong
 
 [Ying Tong](https://github.com/therealyingtong) is an applied cryptographer working on zero-knowledge proofs and multi-party computation. She is a regular contributor to community and educational initiatives (e.g. [zkiap.com](https://zkiap.com), [halo2.club](https://halo2.club)), as well as standards efforts ([zkproof.org](https://zkproof.org)).
 
-#### Riley Wong
+#### >> Riley Wong
 
 Riley Wong (they/them) is the principal of [Emergent Research](https://emergentresearch.net/), a consultancy lab for privacy, governance, and data. In particular, they investigate emerging privacy and cryptography tools with emphasis on applications for vulnerable communities as well as infrastructure for collective agency and consent.
 
@@ -18,7 +18,7 @@ They’ve [written](https://ash.harvard.edu/resources/privacy-preserving-data-go
 
 Previously, they were a research fellow with [0xPARC](https://0xparc.org/), machine learning engineer at Google, investigative journalism fellow at ProPublica, and a QTBIPOC community organizer.
 
-#### Janabel Xia
+#### >> Janabel Xia
 
 Janabel Xia (she/her) is a mathematician working on researching and developing applications of privacy for communities.
 
