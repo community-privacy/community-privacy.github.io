@@ -3,7 +3,8 @@
 Website for Community Privacy. Site uses [al-folio](https://github.com/alshedivat/al-folio) template.
 
 ### Run locally
-`$ bundle exec jekyll serve` 
+
+`$ bundle exec jekyll serve`
 
 ## Setup
 
