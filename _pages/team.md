@@ -3,7 +3,7 @@ layout: page
 permalink: /team/
 title: team
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 #### Ying Tong
