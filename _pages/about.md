@@ -23,7 +23,7 @@ We invite community builders, engineers, designers, cryptographers, researchers,
 This residency offers:
 
 - Registration for RightsCon, Feb 24 - 27
-- Accommodations for non-local residents
+- Travel stipend and accommodations for non-local residents
 - Dedicated environment for learning and collaboration
 - Community building with local privacy and governance groups
 
