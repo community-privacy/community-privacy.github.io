@@ -3,7 +3,7 @@ layout: page
 permalink: /application/
 title: application
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 We invite community builders, engineers, designers, cryptographers, researchers, technologists, labor organizers, journalists, members of vulnerable communities, and advocates for digital safety, bodily autonomy, privacy, and more to apply.
