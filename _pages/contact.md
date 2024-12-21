@@ -22,7 +22,3 @@ We're always looking for opportunities to collaborate with the broader ecosystem
 
 - Email: [janabeltxia@gmail.com](mailto:janabeltxia@gmail.com)
 - Telegram: [@janabelx](https://t.me/janabelx)
-
-## Support Us
-
-Want to support our mission? Consider contributing to our [Open Collective](https://opencollective.com/community-privacy), which includes 3 different sponsor tiers. All contributors will automatically receive the benefits of being a Community Ally.
