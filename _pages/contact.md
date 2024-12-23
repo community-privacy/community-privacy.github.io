@@ -3,7 +3,7 @@ layout: page
 title: contact
 permalink: /contact/
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 We're always looking for opportunities to collaborate with the broader ecosystem. If you have any questions, comments, ideas, concerns, etc. you can contact the organizers here:
