@@ -3,7 +3,7 @@ layout: page
 title: partners
 permalink: /partners/
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 Want to support our mission? [Check out our OpenCollective fundraiser!](https://opencollective.com/community-privacy).
