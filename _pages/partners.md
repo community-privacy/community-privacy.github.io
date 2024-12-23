@@ -1,14 +1,14 @@
 ---
 layout: page
-title: support
-permalink: /support/
+title: partners
+permalink: /partners/
 nav: true
 nav_order: 6
 ---
 
-Want to support our mission? Check out our OpenCollective fundraiser [here](https://opencollective.com/community-privacy).
+Want to support our mission? [Check out our OpenCollective fundraiser!](https://opencollective.com/community-privacy).
 
-We are an entirely grant-funded residency without profit incentives, and welcome any grants and donations from the applied cryptography community. We have 3 different sponsor tiers outlined below. Note that any contributors will automatically receive the benefits of being a Community Ally.
+We are an entirely grant-funded residency without profit incentives, and welcome any grants and donations from the applied cryptography community and beyond. We have 3 different sponsor tiers outlined below. Note that any contributors will automatically receive the benefits of being a Community Ally.
 
 #### <$5k – Community Ally
 
@@ -23,7 +23,7 @@ We are an entirely grant-funded residency without profit incentives, and welcome
 - Priority access to residency materials and outputs
 - Invitation to community events
 
-#### $10k+ – “Privacy Vanguard
+#### $10k+ – Privacy Vanguard
 
 - Acknowledgement on website + github repos + community events
   with sponsor logo displayed
