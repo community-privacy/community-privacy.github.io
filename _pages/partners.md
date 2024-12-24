@@ -1,3 +1,4 @@
+<!--
 ---
 layout: page
 title: partners
@@ -10,7 +11,7 @@ Want to support our mission? [Check out our OpenCollective fundraiser!](https://
 
 We are an entirely grant-funded residency without profit incentives, and welcome any grants and donations from the applied cryptography community and beyond. 
 
-<!-- We have 3 different sponsor tiers outlined below. Note that any contributors will automatically receive the benefits of being a Community Ally.
+We have 3 different sponsor tiers outlined below. Note that any contributors will automatically receive the benefits of being a Community Ally.
 
 #### <$5k – Community Ally
 
