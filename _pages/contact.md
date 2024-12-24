@@ -6,7 +6,7 @@ nav: true
 nav_order: 6
 ---
 
-We're always looking for opportunities to collaborate with the broader ecosystem. If you have any questions, comments, ideas, concerns, etc. you can contact the organizers here:
+We're also always looking for opportunities to collaborate with the broader ecosystem. If you have any questions, comments, ideas, concerns, etc. you can contact the organizers here:
 
 #### >> [Ying Tong Lai](https://github.com/therealyingtong) (she/her)
 
@@ -22,3 +22,9 @@ We're always looking for opportunities to collaborate with the broader ecosystem
 
 - Email: [janabeltxia@gmail.com](mailto:janabeltxia@gmail.com)
 - Telegram: [@janabelx](https://t.me/janabelx)
+
+# Sponsorship
+
+Want to support our mission? [Check out our OpenCollective fundraiser!](https://opencollective.com/community-privacy)
+
+We are an entirely grant-funded residency without profit incentives, and welcome any grants and donations from the applied cryptography community and beyond. 
