@@ -28,7 +28,7 @@ And to note, we hope for a lot of cross-collaboration and cross-education among 
 
 In terms of what we select on, we want to prioritize:
 
-- Expertise in a specific domain. Can include privacy, cryptography, participatory co-design, UX design, community organizing, journalism, labor unions, and more.
+- Expertise in a specific domain, e.g. privacy, cryptography, participatory co-design, UX design, community organizing, journalism, labor unions, or other relevant topics 
 - Culture and community, e.g. values collaboration, co-learning, open-source and public goods, curiosity, equity, inclusion
 - For the holistic cohort: diversity of backgrounds, perspectives, proficiencies, skillsets, communities, cultures, locations, etc.; potential for long-term collaboration in the ecosystem; community impact
 
