@@ -27,4 +27,4 @@ We're also always looking for opportunities to collaborate with the broader ecos
 
 Want to support our mission? [Check out our OpenCollective fundraiser!](https://opencollective.com/community-privacy)
 
-We are an entirely grant-funded residency without profit incentives, and welcome any grants and donations from the applied cryptography community and beyond. 
+We are an entirely grant-funded residency without profit incentives, and welcome any grants and donations from the applied cryptography community and beyond.
