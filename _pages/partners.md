@@ -8,7 +8,7 @@ nav_order: 4
 
 ---
 
-Want to support our mission? [Check out our OpenCollective fundraiser!](https://opencollective.com/community-privacy)
+Want to support our mission? Check out our [OpenCollective fundraiser](https://opencollective.com/community-privacy) (for bank transfers and credit cards), and [Giveth](https://giveth.io/project/community-privacy-residency) (for cryptocurrency).
 
 We are an entirely grant-funded residency without profit incentives, and welcome any grants and donations from the applied cryptography community and beyond.
 
