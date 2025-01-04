@@ -13,7 +13,7 @@ social: false # includes social icons at the bottom of the page
 
 As privacy-preserving applications mature beyond the infrastructure layer to reach end-users, it is crucial to anchor their design in the needs of real-world users. This residency brings together researchers, builders, and community members to explore user-centric methodologies, such as participatory co-design and participatory threat modeling, in conversation with the privacy needs of marginalised groups.
 
-We invite community builders, engineers, designers, cryptographers, researchers, technologists, labor organizers, journalists, members of vulnerable communities, and advocates for digital safety, bodily autonomy, privacy, and more to join us.
+We invite community builders, engineers, designers, cryptographers, researchers, technologists, labor organizers, journalists, policymakers, members of vulnerable communities, and advocates for digital safety, bodily autonomy, privacy, and more to join us.
 
 ## Residency Info
 
