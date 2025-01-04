@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /partners/
-title: partners
+title: Partners
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 ## Sponsors

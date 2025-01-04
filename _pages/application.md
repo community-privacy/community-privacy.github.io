@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /application/
-title: application
+title: Application
 nav: true
 nav_order: 3
 ---

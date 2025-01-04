@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /resources/
-title: resources
+title: Resources
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 Our organizing team has compiled a non-exhaustive list of relevant resources.
