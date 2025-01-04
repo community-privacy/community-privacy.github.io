@@ -22,7 +22,7 @@ Our organizing team has compiled a non-exhaustive list of relevant resources. We
 
 ### Cryptography and Privacy-Enhancing Technologies (PETs)
 
-These are good places to learn about current (and future...) cryptographic primitives and what they offer in an accessible way:
+These are good places to learn about current and emerging cryptographic primitives and what they offer in an accessible way:
 
 - [0xPARC's intro book](https://github.com/0xPARC/0xparc-intro-book)
 - [0xPARC's notes site](https://notes.0xparc.org/)
