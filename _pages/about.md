@@ -84,7 +84,7 @@ _>> Do I need to be a cryptography expert to apply?_\
 No, we are seeking domain experts in many areas, including design, governance, community organizing, journalism, labor, policy, and many more! If you are a member of a vulnerable community or a community with privacy needs, we would love to hear from you.
 
 _>> When can I expect to hear back?_\
-We will be reviewing the days following the deadline and aim send out decisions by 1/14. We understand it takes time to make arrangements, including visa considerations. 
+We will be reviewing the days following the deadline and aim send out decisions by 1/14. We understand it takes time to make arrangements, including visa considerations.
 
 _>> Will my travel and housing be covered?_\
 We will cover travel and accommodations, and/or provide full or partial stipends, with priority for those with financial need.
