@@ -27,7 +27,7 @@ In terms of roles, we see most people likely falling under one or more of the fo
 - **Researcher**: including privacy and cryptography research (ZK, MPC, FHE, etc.) as well as community-focused research (social sciences, anthropology, participatory co-design, etc.). Outputs may include publishing research and writing (papers, blog posts, etc.), conducting participatory co-design sessions and documenting processes and findings, novel research of any form, technical writing; etc.
 - **Designer**: including participatory and community co-design, UX researcher, interface design, etc. Outputs can include participatory co-design sessions, reports/findings/etc., mockups, publishing research and writing, conducting and publishing UX research, e.g. on privacy tools and interfaces
 
-And to note, we hope for a lot of cross-collaboration and cross-education among our residents. These roles are meant to be descriptive, so even if---or perhaps especially if---your work falls outside of one of these categories, we would still love to hear from you.
+And to note, we hope for a lot of cross-collaboration and cross-education among our residents. These roles are meant to be descriptive, so even if---or perhaps especially if---your work falls outside of one of these categories, we would love to hear from you.
 
 In terms of what we select on, we want to prioritize:
 
