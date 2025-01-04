@@ -22,9 +22,3 @@ We're also always looking for opportunities to collaborate with the broader ecos
 
 - Email: [janabeltxia@gmail.com](mailto:janabeltxia@gmail.com)
 - Telegram: [@janabelx](https://t.me/janabelx)
-
-# Sponsorship
-
-Want to support our mission? [Check out our OpenCollective fundraiser!](https://opencollective.com/community-privacy)
-
-We are an entirely grant-funded residency without profit incentives, and welcome any grants and donations from the applied cryptography community and beyond.

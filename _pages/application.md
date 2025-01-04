@@ -15,6 +15,9 @@ Visa information: We recommend checking ahead of time if you have specific [visa
 <iframe class="airtable-embed" src="https://airtable.com/embed/appqz1LytVCVxTw3z/pagqSIwADrFRVIPl3/form" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 <br>
+
+---
+
 ## Application Guidance
 
 In terms of roles, we see most people likely falling under one or more of the following:
@@ -33,6 +36,8 @@ In terms of what we select on, we want to prioritize:
 - For the holistic cohort: diversity of backgrounds, perspectives, proficiencies, skillsets, communities, cultures, locations, etc.; potential for long-term collaboration in the ecosystem; community impact
 
 For a successful residency, we value both high quality collaborative outputs as well as longer-term relationship and community building.
+
+---
 
 ## Frequently Asked Questions
 

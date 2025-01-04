@@ -15,6 +15,8 @@ As privacy-preserving applications mature beyond the infrastructure layer to rea
 
 We invite community builders, engineers, designers, cryptographers, researchers, technologists, labor organizers, journalists, policymakers, members of vulnerable communities, and advocates for digital safety, bodily autonomy, privacy, and more to join us.
 
+---
+
 ## Residency Info
 
 - Residency Dates: 2/22/2025 - 3/22/2025
@@ -28,6 +30,8 @@ This residency offers:
 - Community building with local privacy and governance groups
 
 We encourage residents to attend RightsCon, participate in community events, open-source project outputs, document processes, share learnings, and demo work with the broader community.
+
+---
 
 ## Project Tracks
 
@@ -54,6 +58,8 @@ Below are proposed project tracks and example project ideas. We also expect flex
 - publishing a project boilerplate, writing a tutorial, or adding technical documentation for an existing cryptographic framework, e.g. zero-knowledge, multi-party computation, fully homomorphic encryption, trusted executive environments, proof-carrying data
 - integrating verifiable ID into community governance platforms, e.g. Polis, for private messaging boards, private majority reports, hierarchy of opinions (e.g. concept of expert analyses)
 - testing or auditing existing data provenance tools
+
+---
 
 ## Expected Outcomes
 
