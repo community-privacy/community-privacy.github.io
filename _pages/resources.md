@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-Our organizing team has compiled a non-exhaustive list of relevant resources.
+Our organizing team has compiled a non-exhaustive list of relevant resources. We hope these can be useful as resources for both brainstorming project ideas as well as general learning.
 
 ### Co-Design
 
@@ -20,13 +20,25 @@ Our organizing team has compiled a non-exhaustive list of relevant resources.
 - [Toward Safer Intimate Futures: Recommendations for Tech Platforms to Reduce Image Based Sexual Abuse](https://www.eswalliance.org/toward_safer_intimate_futures_recommendations_tech_platforms_reduce_image_based_abuse)
 - [SoK: Safer Digital-Safety Research Involving At-Risk Users](https://arxiv.org/abs/2309.00735)
 
-### Cryptography
+### Cryptography and other Privacy Technologies
 
-- [A 6-minute introduction to Fully Homomorphic Encryption (FHE)](https://www.zama.ai/introduction-to-homomorphic-encryption)
-- [TFHE Deep Dive](https://www.zama.ai/introduction-to-homomorphic-encryption)
-- [Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based](https://eprint.iacr.org/2013/340.pdf)
-- [Efficient Fully Homomorphic Encryption from (Standard) LWE](https://eprint.iacr.org/2011/344.pdf)
-- [Fully Homomorphic Encryption Using Ideal Lattices](https://www.cs.cmu.edu/~odonnell/hits09/gentry-homomorphic-encryption.pdf)
+These are good places to learn about current (and future...) cryptographic primitives and what they offer in an accessible way:
+
+- [0xPARC's intro book](https://github.com/0xPARC/0xparc-intro-book)
+- [0xPARC's notes site](https://notes.0xparc.org/)
+- [0xPARC's Programmable Cryptography blog post](https://0xparc.org/blog/programmable-cryptography-1)
+
+For those interested in conducting MP-FHE research, here are a few papers to get started:
+
+- [A 6-minute introduction to Fully Homomorphic Encryption (FHE)](https://www.zama.ai/introduction-to-homomorphic-encryption) (high-level functionality)
+- [TFHE Deep Dive](https://www.zama.ai/introduction-to-homomorphic-encryption) (accessible intro to the mathematics)
+- [Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based](https://eprint.iacr.org/2013/340.pdf) (doesn't explain bootstrapping needed computing circuits in FHE)
+- [Efficient Fully Homomorphic Encryption from (Standard) LWE](https://eprint.iacr.org/2011/344.pdf) (explains dimension and modulus reduction needed for bootstrapping)
+- [Fully Homomorphic Encryption Using Ideal Lattices](https://www.cs.cmu.edu/~odonnell/hits09/gentry-homomorphic-encryption.pdf) (bootstrapping)
+
+There are also technical tools that achieve privacy without cryptography, such as:
+
+- [Trusted Execution Environments (TEEs)](https://www.trustonic.com/technical-articles/what-is-a-trusted-execution-environment-tee/)
 
 ### Community Applications
 
