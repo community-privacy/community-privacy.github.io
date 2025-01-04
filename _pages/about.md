@@ -60,7 +60,7 @@ Below are proposed project tracks and example project ideas. We also expect flex
 In addition to building relationships and community, as well as organizing events for privacy, cryptography, and community organizing, we anticipate the creation of:
 
 - **Open-source technical prototypes** and proofs-of-concept of privacy-preserving tools and community-focused applications
-- **Original research** and writing, e.g. blog posts, whitepapers, reports
+- **Original research** and writing, e.g. blog posts, whitepapers, reports, policy briefs
 - Development of **educational resources** and guides, e.g. publications or public-facing workshops
 - **Participatory co-design workshops**, including write-ups of learnings and takeaways, and process documentation
 
