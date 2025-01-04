@@ -36,25 +36,3 @@ In terms of what we select on, we want to prioritize:
 - For the holistic cohort: diversity of backgrounds, perspectives, proficiencies, skillsets, communities, cultures, locations, etc.; potential for long-term collaboration in the ecosystem; community impact
 
 For a successful residency, we value both high quality collaborative outputs as well as longer-term relationship and community building.
-
----
-
-## Frequently Asked Questions
-
-_Do I need to be a cryptography expert to apply?_\
-No, we are seeking domain experts in many areas, including design, governance, community organizing, journalism, labor, and many more. If you are a member of a vulnerable community or a community with privacy needs, we would love to hear from you.
-
-_When can I expect to hear back?_\
-We will be reviewing the days following the deadline and will send out decisions by 1/14.
-
-_Will my travel and housing be covered?_\
-We will cover travel and accommodations, and/or provide full or partial stipends, with priority for those with financial need.
-
-_Can I work full-time and still do the residency?_\
-We would prefer residents be able to show up with presence and to spend dedicated time and energy with our residency cohort. If you need to take time off to make this work, we will have a limited number of 2-week residency options available.
-
-_Do I have to physically be present for the duration of the residency?_\
-Yes, we value having residents share physical space for building community. We may find other ways for remote participation, such as through streaming talks or facilitating an online community, to be announced.
-
-_What kinds of projects are you looking for?_\
-We list a few example project ideas under each [project track](https://community-privacy.github.io/) for inspiration.
