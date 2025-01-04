@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-Our organizing team has compiled a non-exhaustive list of relevant resources. We hope these can be useful as resources for both brainstorming project ideas as well as general learning.
+Our organizing team has compiled a non-exhaustive list of relevant resources. We hope these can be useful both for brainstorming project ideas as well as general learning.
 
 ### Co-Design
 
@@ -20,7 +20,7 @@ Our organizing team has compiled a non-exhaustive list of relevant resources. We
 - [Toward Safer Intimate Futures: Recommendations for Tech Platforms to Reduce Image Based Sexual Abuse](https://www.eswalliance.org/toward_safer_intimate_futures_recommendations_tech_platforms_reduce_image_based_abuse)
 - [SoK: Safer Digital-Safety Research Involving At-Risk Users](https://arxiv.org/abs/2309.00735)
 
-### Cryptography and other Privacy Technologies
+### Cryptography and Privacy-Enhancing Technologies (PETs)
 
 These are good places to learn about current (and future...) cryptographic primitives and what they offer in an accessible way:
 
@@ -28,7 +28,7 @@ These are good places to learn about current (and future...) cryptographic primi
 - [0xPARC's notes site](https://notes.0xparc.org/)
 - [0xPARC's Programmable Cryptography blog post](https://0xparc.org/blog/programmable-cryptography-1)
 
-For those interested in conducting MP-FHE research, here are a few papers to get started:
+For those interested in conducting research on multi-party fully homomorphic encryption (MP-FHE), here are a few papers to get started:
 
 - [A 6-minute introduction to Fully Homomorphic Encryption (FHE)](https://www.zama.ai/introduction-to-homomorphic-encryption) (high-level functionality)
 - [TFHE Deep Dive](https://www.zama.ai/introduction-to-homomorphic-encryption) (accessible intro to the mathematics)
