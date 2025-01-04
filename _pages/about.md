@@ -104,4 +104,4 @@ _>> Do you have any recommended resources to learn more about participatory co-d
 Take a look at our [Resources](/resources) page.
 
 _>> How can I co-organize an event, collaborate with, or sponsor Community Privacy efforts?_\
-Consider contributing to our [OpenCollective fundraiser](https://opencollective.com/community-privacy), [Giveth](https://giveth.io/project/community-privacy-residency), or otherwise [get in touch](/contact)!
+Consider contributing to our [OpenCollective](https://opencollective.com/community-privacy), [Giveth](https://giveth.io/project/community-privacy-residency), or otherwise [get in touch](/contact) about sponsoring or partnering with us!
