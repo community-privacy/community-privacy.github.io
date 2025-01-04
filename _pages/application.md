@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-We invite community builders, engineers, designers, cryptographers, researchers, technologists, labor organizers, journalists, members of vulnerable communities, and advocates for digital safety, bodily autonomy, privacy, and more to apply.
+We invite community builders, engineers, designers, cryptographers, researchers, technologists, labor organizers, journalists, policymakers, members of vulnerable communities, and advocates for digital safety, bodily autonomy, privacy, and more to apply.
 
 [**Applications are due January 7, 2025.**](https://airtable.com/appqz1LytVCVxTw3z/pagqSIwADrFRVIPl3/form)
 
@@ -28,7 +28,7 @@ And to note, we hope for a lot of cross-collaboration and cross-education among 
 
 In terms of what we select on, we want to prioritize:
 
-- Expertise in a specific domain, e.g. privacy, cryptography, participatory co-design, UX design, community organizing, journalism, labor unions, or other relevant topics
+- Expertise in a specific domain, e.g. privacy, cryptography, participatory co-design, UX design, community organizing, journalism, labor unions, policy, or other relevant topics
 - Culture and community, e.g. values collaboration, co-learning, open-source and public goods, curiosity, equity, inclusion
 - For the holistic cohort: diversity of backgrounds, perspectives, proficiencies, skillsets, communities, cultures, locations, etc.; potential for long-term collaboration in the ecosystem; community impact
 
