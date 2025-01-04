@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:
 
@@ -15,6 +15,8 @@ As privacy-preserving applications mature beyond the infrastructure layer to rea
 
 We invite community builders, engineers, designers, cryptographers, researchers, technologists, labor organizers, journalists, policymakers, members of vulnerable communities, and advocates for digital safety, bodily autonomy, privacy, and more to join us.
 
+---
+
 ## Residency Info
 
 - Residency Dates: 2/22/2025 - 3/22/2025
@@ -28,6 +30,8 @@ This residency offers:
 - Community building with local privacy and governance groups
 
 We encourage residents to attend RightsCon, participate in community events, open-source project outputs, document processes, share learnings, and demo work with the broader community.
+
+---
 
 ## Project Tracks
 
@@ -55,6 +59,8 @@ Below are proposed project tracks and example project ideas. We also expect flex
 - integrating verifiable ID into community governance platforms, e.g. Polis, for private messaging boards, private majority reports, hierarchy of opinions (e.g. concept of expert analyses)
 - testing or auditing existing data provenance tools
 
+---
+
 ## Expected Outcomes
 
 In addition to building relationships and community, as well as organizing events for privacy, cryptography, and community organizing, we anticipate the creation of:
@@ -69,3 +75,30 @@ We will facilitate sharing public outputs such as:
 - **Community workshops and workshares** from residents and local Taipei communities
 - **Demo day** on the last day
 - **Written publication** collating outputs: progress reports, new projects, publications, documentation, etc.
+
+---
+
+## Frequently Asked Questions
+
+_>> Do I need to be a cryptography expert to apply?_\
+No, we are seeking domain experts in many areas, including design, governance, community organizing, journalism, labor, and many more. If you are a member of a vulnerable community or a community with privacy needs, we would love to hear from you.
+
+_>> When can I expect to hear back?_\
+We will be reviewing the days following the deadline and will send out decisions by 1/14.
+
+_>> Will my travel and housing be covered?_\
+We will cover travel and accommodations, and/or provide full or partial stipends, with priority for those with financial need.
+
+_>> Can I work full-time and still do the residency?_\
+We would prefer residents be able to show up with presence and to spend dedicated time and energy with our residency cohort. If you need to take time off to make this work, we will have a limited number of 2-week residency options available.
+
+_>> Do I have to physically be present for the duration of the residency?_\
+Yes, we value having residents share physical space for building community. We may find other ways for remote participation, such as through streaming talks or facilitating an online community, to be announced.
+
+_>> What kinds of projects are you looking for?_\
+We list a few example project ideas under each project track for inspiration, as well as a bit of [application guidance](/application). We anticipate project proposals to evolve or emerge as residents meet one another, attend RightsCon, and find opportunities for collaboration. While proposals are non-committal, we’re interested in seeing demonstrated vision, impact, execution, and potential for longer-term collaboration.
+
+Some guiding questions may include: How is privacy and/or cryptography inherent to the project and its success? How does your project center community needs, and is there a specific community in mind?
+
+_>> Do you have any recommended resources to learn more about participatory co-design, privacy and cryptography, etc.?_\
+Take a look at our [Resources](/resources) page.
