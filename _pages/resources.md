@@ -57,9 +57,9 @@ Our organizing team has compiled a non-exhaustive list of relevant resources. We
 - [Efficient Fully Homomorphic Encryption from (Standard) LWE](https://eprint.iacr.org/2011/344.pdf) (explains dimension and modulus reduction needed for bootstrapping)
 - [Fully Homomorphic Encryption Using Ideal Lattices](https://www.cs.cmu.edu/~odonnell/hits09/gentry-homomorphic-encryption.pdf) (bootstrapping)
 
-There are also technical tools that achieve privacy without cryptography, such as:
+#### Etc.
 
-- [Trusted Execution Environments (TEEs)](https://www.trustonic.com/technical-articles/what-is-a-trusted-execution-environment-tee/)
+- [Trusted Execution Environments (TEEs)](https://www.trustonic.com/technical-articles/what-is-a-trusted-execution-environment-tee/) (e.g. technical tools that achieve privacy without cryptography)
 
 ### Guides: Privacy, Digital Safety and Self-Defense
 
