@@ -28,7 +28,7 @@ Our organizing team has compiled a non-exhaustive list of relevant resources. We
 
 ### Cryptography and Privacy-Enhancing Technologies (PETs)
 
-#### Programmable Cryptography
+#### Programmable Cryptography (a framework for applying the primitives below)
 
 - [0xPARC's intro book](https://github.com/0xPARC/0xparc-intro-book) - [Download (easy.pdf)](https://github.com/0xPARC/0xparc-intro-book/releases/)
 - [0xPARC's notes site](https://notes.0xparc.org/)
@@ -45,6 +45,10 @@ Our organizing team has compiled a non-exhaustive list of relevant resources. We
 - [A Beginner’s Guide to Secure Multiparty Computation](https://medium.com/@keylesstech/a-beginners-guide-to-secure-multiparty-computation-dc3fb9365458)
 - [What Is Multiparty Computation?](https://digitalprivacy.ieee.org/publications/topics/what-is-multiparty-computation)
 
+##### MPC math:
+
+- [Vitalik's "A Quick Garbled Circuits Primer"](https://vitalik.eth.limo/general/2020/03/21/garbled.html)
+
 #### Fully homomorphic encryption (FHE):
 
 - [A 6-minute introduction to Fully Homomorphic Encryption (FHE)](https://www.zama.ai/introduction-to-homomorphic-encryption)
@@ -53,13 +57,13 @@ Our organizing team has compiled a non-exhaustive list of relevant resources. We
 
 ##### FHE math:
 
-- [Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based](https://eprint.iacr.org/2013/340.pdf) (doesn't explain bootstrapping needed computing circuits in FHE)
+- [Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based](https://eprint.iacr.org/2013/340.pdf) (doesn't explain bootstrapping needed for computing circuits in FHE)
 - [Efficient Fully Homomorphic Encryption from (Standard) LWE](https://eprint.iacr.org/2011/344.pdf) (explains dimension and modulus reduction needed for bootstrapping)
 - [Fully Homomorphic Encryption Using Ideal Lattices](https://www.cs.cmu.edu/~odonnell/hits09/gentry-homomorphic-encryption.pdf) (bootstrapping)
 
-#### Etc.
+#### Other privacy technologies
 
-- [Trusted Execution Environments (TEEs)](https://www.trustonic.com/technical-articles/what-is-a-trusted-execution-environment-tee/) (e.g. technical tools that achieve privacy without cryptography)
+- [Trusted Execution Environments (TEEs)](https://www.trustonic.com/technical-articles/what-is-a-trusted-execution-environment-tee/) (achieves privacy without cryptography)
 
 ### Guides: Privacy, Digital Safety and Self-Defense
 
