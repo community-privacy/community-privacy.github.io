@@ -39,9 +39,9 @@ Our organizing team has compiled a non-exhaustive list of relevant resources. We
 
 A framework for applying cryptographic primitives such as zero-knowledge, multi-party computation, fully homomorphic encryption, and more. 
 
-- [0xPARC's intro book](https://github.com/0xPARC/0xparc-intro-book) - [Download (easy.pdf)](https://github.com/0xPARC/0xparc-intro-book/releases/)
-- [0xPARC's notes site](https://notes.0xparc.org/)
-- [0xPARC's Programmable Cryptography blog post](https://0xparc.org/blog/programmable-cryptography-1)
+- [Programmable Cryptography (Part 1)](https://0xparc.org/blog/programmable-cryptography-1)
+- [Three Easy Pieces in Programmable Cryptography](https://github.com/0xPARC/0xparc-intro-book) - [Download (easy.pdf)](https://github.com/0xPARC/0xparc-intro-book/releases/)
+- [0xPARC notes](https://notes.0xparc.org/notes/)
 
 #### Zero-knowledge (ZK):
 
@@ -53,22 +53,18 @@ A framework for applying cryptographic primitives such as zero-knowledge, multi-
 
 - [A Beginner’s Guide to Secure Multiparty Computation](https://medium.com/@keylesstech/a-beginners-guide-to-secure-multiparty-computation-dc3fb9365458)
 - [What Is Multiparty Computation?](https://digitalprivacy.ieee.org/publications/topics/what-is-multiparty-computation)
-
-##### MPC math:
-
-- [Vitalik's "A Quick Garbled Circuits Primer"](https://vitalik.eth.limo/general/2020/03/21/garbled.html)
+- MPC math:
+  - [Vitalik's "A Quick Garbled Circuits Primer"](https://vitalik.eth.limo/general/2020/03/21/garbled.html)
 
 #### Fully homomorphic encryption (FHE):
 
 - [A 6-minute introduction to Fully Homomorphic Encryption (FHE)](https://www.zama.ai/introduction-to-homomorphic-encryption)
 - [TFHE Deep Dive](https://www.zama.ai/post/tfhe-deep-dive-part-1)
 - [Homomorphic Encryption Use Cases](https://digitalprivacy.ieee.org/publications/topics/homomorphic-encryption-use-cases)
-
-##### FHE math:
-
-- [Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based](https://eprint.iacr.org/2013/340.pdf) - lacks explanation of bootstrapping needed for computing circuits in FHE
-- [Fully Homomorphic Encryption Using Ideal Lattices](https://www.cs.cmu.edu/~odonnell/hits09/gentry-homomorphic-encryption.pdf) - on bootstrapping
-- [Efficient Fully Homomorphic Encryption from (Standard) LWE](https://eprint.iacr.org/2011/344.pdf) - explains dimension and modulus reduction needed for bootstrapping
+- FHE math:
+  - [Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based](https://eprint.iacr.org/2013/340.pdf) - lacks explanation of bootstrapping needed for computing circuits in FHE
+  - [Fully Homomorphic Encryption Using Ideal Lattices](https://www.cs.cmu.edu/~odonnell/hits09/gentry-homomorphic-encryption.pdf) - on bootstrapping
+  - [Efficient Fully Homomorphic Encryption from (Standard) LWE](https://eprint.iacr.org/2011/344.pdf) - explains dimension and modulus reduction needed for bootstrapping
 
 #### Other privacy-enhancing technologies
 
