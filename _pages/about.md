@@ -80,28 +80,28 @@ We will facilitate sharing public outputs such as:
 
 ## Frequently Asked Questions
 
-_>> Do I need to be a cryptography expert to apply?_\
+#### Do I need to be a cryptography expert to apply?
 No, we are seeking domain experts in many areas, including design, governance, community organizing, journalism, labor, policy, and many more! If you are a member of a vulnerable community or a community with privacy needs, we would love to hear from you.
 
-_>> When can I expect to hear back?_\
+#### When can I expect to hear back?
 We will be reviewing the days following the deadline and aim send out decisions by 1/14. We understand it takes time to make arrangements, including visa considerations.
 
-_>> Will my travel and housing be covered?_\
+#### Will my travel and housing be covered?
 We will cover travel and accommodations, and/or provide full or partial stipends, with priority for those with financial need.
 
-_>> Can I work full-time and still do the residency?_\
+#### Can I work full-time and still do the residency?
 We would prefer residents be able to show up with presence and to spend dedicated time and energy with our residency cohort. If you need to take time off to make this work, we will have a limited number of 2-week residency options available.
 
-_>> Do I have to physically be present for the duration of the residency?_\
+#### Do I have to physically be present for the duration of the residency?
 Yes, we value having residents share physical space for building community. We may find other ways for remote participation, such as through streaming talks or facilitating an online community, to be announced.
 
-_>> What kinds of projects are you looking for?_\
+#### What kinds of projects are you looking for?
 We list a few example project ideas under each project track for inspiration, as well as a bit of [application guidance](/application). We anticipate project proposals to evolve or emerge as residents meet one another, attend RightsCon, and find opportunities for collaboration. While proposals are non-committal, we’re interested in seeing demonstrated vision, impact, execution, and potential for longer-term collaboration.
 
 Some guiding questions may include: How is privacy and/or cryptography inherent to the project and its success? How does your project center community needs, and is there a specific community in mind?
 
-_>> Do you have any recommended resources to learn more about participatory co-design, privacy and cryptography, etc.?_\
+#### Do you have any recommended resources to learn more about participatory co-design, privacy and cryptography, etc.?
 Take a look at our [Resources](/resources) page.
 
-_>> How can I co-organize an event, collaborate with, or sponsor Community Privacy efforts?_\
+#### How can I co-organize an event, collaborate with, or sponsor Community Privacy efforts?
 Consider contributing to our [OpenCollective](https://opencollective.com/community-privacy), [Giveth](https://giveth.io/project/community-privacy-residency), or otherwise [get in touch](/contact) about sponsoring or collaborating with us!
