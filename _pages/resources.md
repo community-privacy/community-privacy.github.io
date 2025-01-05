@@ -26,9 +26,16 @@ Our organizing team has compiled a non-exhaustive list of relevant resources. We
 - [Callisto: A Cryptographic Approach to Detecting Serial Perpetrators of Sexual Misconduct](https://par.nsf.gov/servlets/purl/10061833)
 - [Privacy Preserving Data Governance](https://ash.harvard.edu/resources/privacy-preserving-data-governance/)
 
+### Guides: Privacy, Digital Safety and Self-Defense
+
+- [Digital Defense Fund: Privacy Guides](https://digitaldefensefund.org/ddf-guides)
+- [T4Tech: Digital Personas Zine, Doxxing Self Defense](https://t4tech-nyc.github.io/)
+- [Zebra Crossing: Digital Safety Checklist](https://zebracrossing.narwhalacademy.org/)
+- [EFF: Surveillance Self-Defense](https://ssd.eff.org/)
+
 ### Cryptography and Privacy-Enhancing Technologies (PETs)
 
-#### Programmable Cryptography (a framework for applying the primitives below)
+#### Programmable Cryptography - a framework for applying cryptographic primitives such as zero-knowledge, multi-party computation, fully homomorphic encryption, and more. 
 
 - [0xPARC's intro book](https://github.com/0xPARC/0xparc-intro-book) - [Download (easy.pdf)](https://github.com/0xPARC/0xparc-intro-book/releases/)
 - [0xPARC's notes site](https://notes.0xparc.org/)
@@ -57,17 +64,10 @@ Our organizing team has compiled a non-exhaustive list of relevant resources. We
 
 ##### FHE math:
 
-- [Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based](https://eprint.iacr.org/2013/340.pdf) (doesn't explain bootstrapping needed for computing circuits in FHE)
-- [Efficient Fully Homomorphic Encryption from (Standard) LWE](https://eprint.iacr.org/2011/344.pdf) (explains dimension and modulus reduction needed for bootstrapping)
-- [Fully Homomorphic Encryption Using Ideal Lattices](https://www.cs.cmu.edu/~odonnell/hits09/gentry-homomorphic-encryption.pdf) (bootstrapping)
+- [Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based](https://eprint.iacr.org/2013/340.pdf) - lacks explanation of bootstrapping needed for computing circuits in FHE
+- [Fully Homomorphic Encryption Using Ideal Lattices](https://www.cs.cmu.edu/~odonnell/hits09/gentry-homomorphic-encryption.pdf) - on bootstrapping
+- [Efficient Fully Homomorphic Encryption from (Standard) LWE](https://eprint.iacr.org/2011/344.pdf) - explains dimension and modulus reduction needed for bootstrapping
 
-#### Other privacy technologies
+#### Other privacy-enhancing technologies
 
-- [Trusted Execution Environments (TEEs)](https://www.trustonic.com/technical-articles/what-is-a-trusted-execution-environment-tee/) (achieves privacy without cryptography)
-
-### Guides: Privacy, Digital Safety and Self-Defense
-
-- [Digital Defense Fund: Privacy Guides](https://digitaldefensefund.org/ddf-guides)
-- [T4Tech: Digital Personas Zine, Doxxing Self Defense](https://t4tech-nyc.github.io/)
-- [Zebra Crossing: Digital Safety Checklist](https://zebracrossing.narwhalacademy.org/)
-- [EFF: Surveillance Self-Defense](https://ssd.eff.org/)
+- [Trusted Execution Environments (TEEs)](https://www.trustonic.com/technical-articles/what-is-a-trusted-execution-environment-tee/) - can achieve privacy without cryptography
