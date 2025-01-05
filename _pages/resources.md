@@ -35,7 +35,9 @@ Our organizing team has compiled a non-exhaustive list of relevant resources. We
 
 ### Cryptography and Privacy-Enhancing Technologies (PETs)
 
-#### Programmable Cryptography - a framework for applying cryptographic primitives such as zero-knowledge, multi-party computation, fully homomorphic encryption, and more. 
+#### Programmable Cryptography
+
+A framework for applying cryptographic primitives such as zero-knowledge, multi-party computation, fully homomorphic encryption, and more. 
 
 - [0xPARC's intro book](https://github.com/0xPARC/0xparc-intro-book) - [Download (easy.pdf)](https://github.com/0xPARC/0xparc-intro-book/releases/)
 - [0xPARC's notes site](https://notes.0xparc.org/)
