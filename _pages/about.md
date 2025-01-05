@@ -41,7 +41,7 @@ Below are proposed project tracks and example project ideas. We also expect flex
 
 ### >> Applications for Vulnerable Communities
 
-- building privacy-preserving coordination tools, such as using multi-party computation or multi-party fully homomorphic encryption for whistleblowing, labor strikes, or reporting abuse
+- building privacy-preserving coordination tools, such as using multi-party computation or multi-party fully homomorphic encryption for whistleblowing, labor strikes, reporting abuse, or mutual aid
 - compiling a privacy guide for vulnerable communities, with specific tools and use cases
 - analyzing data using multi-party statistics libraries for a specific community with privacy needs
 - updating [Callisto Vault](https://www.projectcallisto.org/callistovault) with zkEmail, MP-FHE
