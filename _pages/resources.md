@@ -37,7 +37,7 @@ Our organizing team has compiled a non-exhaustive list of relevant resources. We
 
 #### Programmable Cryptography
 
-A framework for applying cryptographic primitives such as zero-knowledge, multi-party computation, fully homomorphic encryption, and more. 
+A framework for applying cryptographic primitives such as zero-knowledge, multi-party computation, fully homomorphic encryption, and more.
 
 - [Programmable Cryptography (Part 1)](https://0xparc.org/blog/programmable-cryptography-1)
 - [Three Easy Pieces in Programmable Cryptography](https://github.com/0xPARC/0xparc-intro-book) - [Download (easy.pdf)](https://github.com/0xPARC/0xparc-intro-book/releases/)
