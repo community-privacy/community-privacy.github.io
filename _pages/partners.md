@@ -16,6 +16,12 @@ Want to support our mission? Check out our [OpenCollective fundraiser](https://o
 
 ---
 
+## Friends and Collaborators
+
+We are grateful to support and be supported by our broader community of collaborators, including: [Plurality Institute](https://www.plurality.institute/), [Taiwan Digital Identity Project](https://www.wallet.gov.tw/), [Cursive](https://www.cursive.team/), [ZK Email](https://prove.email/), [MPCStats](https://pse.dev/en/projects/mpc-stats), [Privacy & Scaling Explorations](https://pse.dev/en), and more. <3 
+
+---
+
 ## Organizing Team
 
 Our organizing team consists of:
