@@ -16,9 +16,9 @@ Want to support our mission? Check out our [OpenCollective fundraiser](https://o
 
 ---
 
-## Friends and Collaborators
+## Community Partners
 
-We are grateful to support and be supported by our broader community of collaborators, including: [Plurality Institute](https://www.plurality.institute/), [Taiwan Digital Identity Project](https://www.wallet.gov.tw/), [Cursive](https://www.cursive.team/), [ZK Email](https://prove.email/), [MPCStats](https://pse.dev/en/projects/mpc-stats), [Privacy & Scaling Explorations](https://pse.dev/en), and more. <3
+We are grateful to support and be supported by our broader community of friends and collaborators, including: [Plurality Institute](https://www.plurality.institute/), [Taiwan Digital Identity Project](https://www.wallet.gov.tw/), [Cursive](https://www.cursive.team/), [ZK Email](https://prove.email/), [MPCStats](https://pse.dev/en/projects/mpc-stats), [Privacy & Scaling Explorations](https://pse.dev/en), [Dweb](https://getdweb.net/) and more. <3
 
 ---
 
