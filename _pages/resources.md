@@ -46,7 +46,7 @@ A framework for applying cryptographic primitives such as zero-knowledge, multi-
 #### Zero-knowledge (ZK):
 
 - [Zero-Knowledge Proofs: A Beginner's Guide](https://www.dock.io/post/zero-knowledge-proofs)
-- [ZK Identity: Why and How (Part 1)](https://0xparc.org/blog/zk-id-1)
+- [Modern Zero Knowledge Cryptography](https://zkiap.com/)
 - [Zero-Knowledge Proof: Applications and Use Cases](https://chain.link/education-hub/zero-knowledge-proof-use-cases)
 
 #### Multi-party computation (MPC):
