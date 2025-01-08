@@ -59,6 +59,7 @@ A framework for applying cryptographic primitives such as zero-knowledge, multi-
 #### Fully homomorphic encryption (FHE):
 
 - [A 6-minute introduction to Fully Homomorphic Encryption (FHE)](https://www.zama.ai/introduction-to-homomorphic-encryption)
+- [A High-Level Technical Overview of Fully Homomorphic Encryption](https://www.jeremykun.com/2024/05/04/fhe-overview/)
 - [TFHE Deep Dive](https://www.zama.ai/post/tfhe-deep-dive-part-1)
 - [Homomorphic Encryption Use Cases](https://digitalprivacy.ieee.org/publications/topics/homomorphic-encryption-use-cases)
 - FHE math:
