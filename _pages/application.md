@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /application/
 title: Application
@@ -35,4 +35,4 @@ In terms of what we select on, we want to prioritize:
 - Culture and community, e.g. values of collaboration, co-learning, open-source and public goods, curiosity, equity, inclusion
 - For the holistic cohort: diversity of backgrounds, perspectives, proficiencies, skillsets, communities, cultures, locations, etc.; potential for long-term collaboration in the ecosystem; community impact
 
-For a successful residency, we value both high quality collaborative outputs as well as longer-term relationship and community building.
+For a successful residency, we value both high quality collaborative outputs as well as longer-term relationship and community building. -->
