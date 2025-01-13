@@ -86,7 +86,7 @@ No, we are seeking domain experts in many areas, including design, governance, c
 
 ##### When can I expect to hear back?
 
-We will be reviewing the days following the deadline and aim send out decisions by 1/14. We understand it takes time to make arrangements, including visa considerations.
+We will be reviewing the days following the deadline and aim send out decisions by 1/17. We understand it takes time to make arrangements, including visa considerations.
 
 ##### Will my travel and housing be covered?
 
