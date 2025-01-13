@@ -17,6 +17,7 @@ Our organizing team has compiled a non-exhaustive list of relevant resources. We
 ### Community Needs
 
 - [Engineering privacy for vulnerable populations](https://recapworkshop.online/recap24/contributions/troncoso-privacy-vulnerable-populations.html)
+- [Consentful Tech Zine](https://alliedmedia.org/resources/resource-test)
 - [Toward Safer Intimate Futures: Recommendations for Tech Platforms to Reduce Image Based Sexual Abuse](https://www.eswalliance.org/toward_safer_intimate_futures_recommendations_tech_platforms_reduce_image_based_abuse)
 - [SoK: Safer Digital-Safety Research Involving At-Risk Users](https://arxiv.org/abs/2309.00735)
 
