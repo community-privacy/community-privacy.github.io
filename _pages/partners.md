@@ -8,11 +8,11 @@ nav_order: 5
 
 ## Sponsors
 
-#### >> [GCC](https://gccofficial.org/): funding and supporting the development of global digital public goods.
-
 Our deep appreciation goes towards our sponsors for making this residency possible. We are an entirely grant-funded residency without profit incentives, and welcome any grants and donations from the applied cryptography community and beyond.
 
 Want to support our mission? Check out our [OpenCollective fundraiser](https://opencollective.com/community-privacy) for bank transfers and credit cards, [Giveth](https://giveth.io/project/community-privacy-residency) for cryptocurrency, or otherwise [get in touch](/contact)!
+
+#### >> [GCC](https://gccofficial.org/): funding and supporting the development of global digital public goods.
 
 ---
 
