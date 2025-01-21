@@ -42,7 +42,7 @@ Our organizing team consists of:
 
 #### >> [Riley Wong](https://www.emergentresearch.net/) (they/them)
 
-Riley Wong (they/them) consults and conducts research as the principal of [Emergent Research](https://emergentresearch.net/), investigating privacy, governance, and data. In particular, they're exploring emerging privacy and cryptography tools with emphasis on applications for vulnerable communities and infrastructure for collective agency and consent.
+Riley Wong (they/them) consults and conducts research as the principal of [Emergent Research](https://emergentresearch.net/), investigating privacy, governance, and data. In particular, they're exploring emerging privacy and cryptography tools with emphasis on applications for vulnerable communities and digital public infrastructure for collective agency and consent.
 
 They’ve [written](https://ash.harvard.edu/resources/privacy-preserving-data-governance/) and [given talks](https://www.rileynwong.com/blog/2024/1/20/talk-privacy-preserving-data-governance-at-the-second-interdisciplinary-workshop-on-reimagining-democracy-iword-2023-harvard-kennedy-school-ash-center) on privacy-preserving data governance, [applications](https://www.emergentresearch.net/mpfhe-reporting) of [MP-FHE for vulnerable communities](https://www.rileynwong.com/blog/2024/11/17/talk-applications-of-mp-fhe-for-vulnerable-communities), [collective governance](https://www.rileynwong.com/blog/2024/3/11/talk-collective-governance-governance-archaeology), [consent mechanisms](https://www.emergentresearch.net/consent-interfaces), and more.
 
