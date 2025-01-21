@@ -27,6 +27,7 @@ We are grateful to support and be supported by our broader community of friends 
 - [MPCStats](https://pse.dev/en/projects/mpc-stats)
 - [Privacy & Scaling Explorations](https://pse.dev/en)
 - [DWeb](https://getdweb.net/)
+- [Emergent Research](https://emergentresearch.net/)
 - and more <3
 
 ---
