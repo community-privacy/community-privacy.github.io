@@ -16,7 +16,7 @@ Want to support our mission? Check out our [OpenCollective fundraiser](https://o
 
 ---
 
-## Community Partners
+## Community Partners and Friends of the Residency
 
 We are grateful to support and be supported by our broader community of friends and collaborators, including:
 
