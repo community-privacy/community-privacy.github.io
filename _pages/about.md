@@ -19,7 +19,7 @@ We invite community builders, engineers, designers, cryptographers, researchers,
 
 ## Residency Info
 
-- Residency Dates: 2/22/2025 - 3/22/2025
+- Residency Dates: 2/16/2025 - 3/22/2025
 - Location: Taipei, Taiwan
 
 This residency offers:
