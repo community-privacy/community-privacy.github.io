@@ -11,7 +11,7 @@ social: false # includes social icons at the bottom of the page
 
 **A 2-4 week residency focused on researching, co-designing, prototyping, and building open-source applications for community privacy, with emphasis on Applications for Vulnerable Communities, Community Co-Design, and Privacy Infrastructure.** _Applications are currently closed; decisions will be sent out by 17 Jan, 2025._
 
-As cryptographic and privacy-preserving applications mature beyond the infrastructure layer to reach end-users, it is crucial to anchor their design in the needs of real-world communities. This residency brings together researchers, builders, and community members to explore human-centric methodologies, such as participatory co-design and participatory threat modeling, in conversation with the privacy needs of marginalised groups.
+As cryptographic and privacy-preserving applications mature beyond the infrastructure layer to reach end-users, it is crucial to anchor their design in the needs of real-world communities. This residency brings together researchers, builders, and community members to explore human-centric methodologies, such as participatory co-design and participatory threat modeling, in consideration of the privacy needs of marginalised groups.
 
 We invite community builders, engineers, designers, cryptographers, researchers, technologists, labor organizers, journalists, policymakers, members of vulnerable communities, and advocates for digital safety, bodily autonomy, privacy, and more to join us.
 
