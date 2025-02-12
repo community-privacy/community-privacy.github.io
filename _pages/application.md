@@ -38,6 +38,7 @@ For a successful residency, we value both high quality collaborative outputs as 
 ## External Funding
 
 Those looking for external funding may look into:
+
 - The Ethereum Foundation's Ecosystem Support Program offers a [Small Grants](https://esp.ethereum.foundation/applicants/small-grants) program.
 - The NLNet Foundation maintains an [Active funds](https://nlnet.nl/funding.html) program for projects focused on "open hardware, open software, open data or open standards."
 - The Open Tech Fund has also compiled a large list of potential funds and [Alternative Sources of Suppprt](https://docs.opentech.fund/otf-application-guidebook/appendix-iv-alternative-sources-of-support) for funding projects in "internet freedom, journalism, software development, and human rights."
