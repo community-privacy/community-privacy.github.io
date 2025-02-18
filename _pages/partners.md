@@ -13,6 +13,10 @@ Our deep appreciation goes towards our sponsors for making this residency possib
 Want to support our mission? Check out our [OpenCollective fundraiser](https://opencollective.com/community-privacy) for bank transfers and credit cards, [Giveth](https://giveth.io/project/community-privacy-residency) for cryptocurrency, or otherwise [get in touch](/contact)!
 
 #### >> [GCC](https://gccofficial.org/): funding and supporting the development of global digital public goods.
+#### >> [Privacy & Scaling Explorations](https://pse.dev/): Building free resources for people expanding the world of programmable cryptography.
+#### >> [Ethereum Foundation Ecosystem Support Program](https://esp.ethereum.foundation/): grants and other support to the builders of the Ethereum ecosystem.
+#### >> [SPARC](https://www.sparc.camp/): A free program for talented high schoolers to develop quantitative skills and apply them to the world.
+#### >> James Zaki
 
 ---
 
