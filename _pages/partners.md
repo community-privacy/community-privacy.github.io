@@ -17,6 +17,7 @@ Want to support our mission? Check out our [OpenCollective fundraiser](https://o
 - [Public Good Crypto](https://publicgoodcrypto.org/): Funds cryptography research to secure the internet and to push digital human rights forward.
 - [SPARC](https://www.sparc.camp/): A free program for talented high schoolers to develop quantitative skills and apply them to the world.
 - [James Zaki](https://events.humanitix.com/host/weekly-web3-workshops): Empowering people to gain an Independent Level Up.
+- [Pollen Labs](https://pollenlabs.org/): Building a better world through open-source & blockchain technology.
 
 ---
 
