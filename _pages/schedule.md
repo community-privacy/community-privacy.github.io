@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /schedule/
 title: Schedule
@@ -30,4 +30,4 @@ Throughout the month, we encourage residents to host knowledge-shares, self-orga
 
 - Project documentation
 - Demo day and presentations
-- End of residency community social
+- End of residency community social -->
