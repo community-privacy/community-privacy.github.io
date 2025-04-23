@@ -6,6 +6,7 @@ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  font-family: "Roboto Mono", monospace;
 
   h1,
   h2,
@@ -51,3 +52,18 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+// .spaced-table table {
+//   width: 100%;
+//   border-collapse: separate;
+//   border-spacing: 0 1rem; /* adds vertical space between rows */
+// }
+
+// .spaced-table tr {
+//   background: white; /* or whatever background you want */
+//   transition: background 0.2s;
+// }
+
+// .spaced-table tr:hover {
+//   background: #f7f7f7; /* subtle highlight on hover */
+// }
