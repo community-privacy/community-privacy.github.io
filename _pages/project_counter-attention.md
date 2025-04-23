@@ -15,8 +15,8 @@ Counter-Attention Archive documents and archives the work of scholars and artist
 **Contributors:**
 Kii Kang
 
-**Demo day video public?:**
-No
+**Demo Day Video:**
+None
 
 **Support needed from residency/community:**  
 Mentorship/expertise, connecting to funding sources, publicising your work

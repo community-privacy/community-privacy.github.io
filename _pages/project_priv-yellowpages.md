@@ -16,7 +16,7 @@ Semantic matching with FHE and decentralized storage
 **Contributors**  
 Rithikha Rajamohan
 
-**Video**  
+**Demo Day Video:**  
 WIP
 
 **How can the residency/community support continued efforts on your project?**

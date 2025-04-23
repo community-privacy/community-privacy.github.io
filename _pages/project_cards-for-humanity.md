@@ -15,8 +15,8 @@ A card game bridging the worlds of community organizing and technical work
 **Contributors:**
 Laura Sinisterra
 
-**Demo day video public?:**
-Yes
+**Demo Day Video:**
+WIP
 
 **Support needed from residency/community:**  
 Mentorship/expertise, publicising your work

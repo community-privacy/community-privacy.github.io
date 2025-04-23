@@ -17,7 +17,7 @@ A privacy-preserving version of “are we dating the same guy/girl?” concept.
 Jayaditya Gupta
 
 **Demo Day Video:**
-✅ Yes
+WIP
 
 **How can the residency/community support continued efforts on your project?**  
 Help me with making the project more secure and private by sharing ideas/criticizing it too.

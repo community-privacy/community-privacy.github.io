@@ -16,8 +16,8 @@ Exploring how mutually distrusting parties can collaboratively and privately tra
 **Contributors:**
 Yuriko Nishijima, Val Elefante
 
-**Demo day video public?:**
-Yes — both mid-demo day (Yuriko: technical, Val: use case research) and the final one (Val: use case research)
+**Demo Day Video:**
+WIP
 
 **Support needed from residency/community:**
 

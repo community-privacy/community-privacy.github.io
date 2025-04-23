@@ -13,8 +13,8 @@ I wrote an essay and hosted a podcast interview with Audrey Tang, Taiwan’s cyb
 - [garbage in, garbage out](https://link-to-artifact)
 - [doing DOGE right ft. Audrey Tang](https://link-to-artifact)
 
-**Demo day video public?:**
-Yes
+**Demo Day Video:**
+WIP
 
 **Support needed from residency/community:**  
 Publishing/sharing with the residency’s funders/networks & funder introductions would be great!

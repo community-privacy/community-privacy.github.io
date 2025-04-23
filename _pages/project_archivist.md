@@ -14,8 +14,8 @@ Coming soon, editing text!
 **Contributors:**
 Olivia M Ross
 
-**Demo day video public?:**
-Does not apply.
+**Demo Day Video:**
+None
 
 **Support needed from residency/community:**  
 I would love to stay in touch with both the organizers and residents <3 I’d really love a round of feedback on the essay from you guys before publishing.  

@@ -16,7 +16,7 @@ It is based on hope that is implicit in any futures work. If there is a future i
 **Contributors:**
 Āryā Jeipea Karijo
 
-**Demo day video public?:**
+**Demo Day Video:**
 Yes
 
 **Support needed from residency/community:**  

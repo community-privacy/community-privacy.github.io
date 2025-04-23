@@ -19,7 +19,7 @@ A flexible and elegant time-based protocol for deniable authentication! 🎉
 **Contributors:**
 Anka Hu 🎉
 
-**Demo day video public?:**
+**Demo Day Video:**
 WIP
 
 **Support needed from residency/community:**

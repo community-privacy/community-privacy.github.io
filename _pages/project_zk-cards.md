@@ -19,7 +19,7 @@ A card game to help understand the endless and evolving technologies in the Worl
 Jayaditya Gupta
 
 **Demo Day Video:**
-✅ Yes
+WIP
 
 **Community Support Needed:**  
 Public publishing and maybe tweet about the project 😀

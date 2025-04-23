@@ -12,8 +12,8 @@ Can we collaboratively create shared senses of identity from the ground up inste
 
 - Slides: [PDF](https://drive.proton.me/urls/D9H1GAZE6W#eFrsD3FI9aBt)
 
-**Demo day video public?:**
-No (not for now)
+**Demo Day Video:**
+None
 
 **Support needed from residency/community:**  
 Let’s make something!
