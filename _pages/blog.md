@@ -1,9 +1,9 @@
-<!-- ---
+---
 layout: default
 permalink: /blog/
-title: blog
+title: Blog
 nav: true
-nav_order: 1
+nav_order: 6
 pagination:
   enabled: true
   collection: posts
@@ -101,6 +101,7 @@ pagination:
 
 {% endif %}
 
+<!-- posts here -->
   <ul class="post-list">
 
     {% if page.pagination.enabled %}
@@ -193,4 +194,4 @@ pagination:
 {% include pagination.liquid %}
 {% endif %}
 
-</div> -->
+</div>
