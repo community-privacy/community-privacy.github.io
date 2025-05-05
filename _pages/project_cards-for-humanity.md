@@ -18,7 +18,7 @@ Laura Sinisterra
 **Demo Day Video:**
 WIP
 
-**Support needed from residency/community:**  
+**Support requested from the community:**  
 Mentorship/expertise, publicising your work
 
 **Further comments:**  

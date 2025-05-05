@@ -10,7 +10,7 @@ A straightforward lattice-based construction of indistinguishability obfuscation
 
 **Artifacts:**
 
-- [Slides](https://drive.google.com/file/d/15u2LpwSj8rgCaZMWk_2A1XMGil6XTs61/view?usp=sharing)
+- Slides: [iO from theory to practice](https://drive.google.com/file/d/15u2LpwSj8rgCaZMWk_2A1XMGil6XTs61/view?usp=sharing)
 - [Github](https://github.com/MachinaIO/diamond-io)
 
 **Contributors:**
@@ -19,7 +19,7 @@ Sora Suegami, Enrico Bottazzi, Pia Park
 **Demo Day Video:**
 WIP
 
-**Support needed from residency/community:**
+**Support requested from the community:**
 
 - Application ideas for indistinguishability obfuscation
 - Engineering advice for speeding up lattice based cryptography

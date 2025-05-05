@@ -21,7 +21,7 @@ Jayaditya Gupta
 **Demo Day Video:**
 WIP
 
-**Community Support Needed:**  
+**Support requested from the community:**  
 Public publishing and maybe tweet about the project 😀
 
 **Further Info:**

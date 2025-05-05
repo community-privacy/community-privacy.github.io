@@ -20,7 +20,7 @@ Emma Guo
 **Demo Day Video:**
 Yes
 
-**Support needed from residency/community:**  
+**Support requested from the community:**  
 Mentorship, advice, and use case ideas!
 
 **Further comments:**  

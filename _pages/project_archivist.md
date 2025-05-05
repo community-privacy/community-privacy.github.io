@@ -17,7 +17,7 @@ Olivia M Ross
 **Demo Day Video:**
 None
 
-**Support needed from residency/community:**  
+**Support requested from the community:**  
 I would love to stay in touch with both the organizers and residents <3 I’d really love a round of feedback on the essay from you guys before publishing.  
 Hmmm, is there anyone you think I should talk to about this?
 

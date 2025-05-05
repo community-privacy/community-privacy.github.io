@@ -10,7 +10,7 @@ A deep-dive into privacy requirements and features of the EUDI framework
 
 **Artifacts**
 
-- Demo day slides: [Digital ID @ CPR](https://docs.google.com/presentation/d/1C4D8zK4gAdafgIEW-2m_qDyyT39gWo0mmFYpwmA8N3M)
+- Slides: [Digital ID @ CPR](https://docs.google.com/presentation/d/1C4D8zK4gAdafgIEW-2m_qDyyT39gWo0mmFYpwmA8N3M)
 - [Github comment](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/discussions/408?sort=top#discussioncomment-12660315)
 - [Overview of post-quantum zk proof systems [WIP]](https://hackmd.io/@therealyingtong/proof-systems-map)
 
@@ -20,7 +20,7 @@ Ying Tong, Vishruti Ganesh, Janabel Xia, Riley Wong
 **Demo Day Video:**  
 WIP
 
-**How can the residency/community support continued efforts on your project?**
+**Support requested from the community:**
 
 - Threat modelling, sharing lived experiences and exploring different deployment contexts
 - Connecting to experts in the digital ID space, including civil rights organisations and human rights defenders

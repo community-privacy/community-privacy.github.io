@@ -19,7 +19,7 @@ Yuriko Nishijima, Val Elefante
 **Demo Day Video:**
 WIP
 
-**Support needed from residency/community:**
+**Support requested from the community:**
 
 - Mentorship and expertise
 - Connections to funding sources

@@ -16,11 +16,11 @@ Cryptographic tools for community action coordination using ZKPs.
 **Contributors (optional)**  
 Ryan Wang, Violet
 
-**Video**  
-WIP
-
-**How can the residency/community support continued efforts on your project?**  
-WIP
+**Support requested from the community**  
+We welcome community support through feedback, connections to potential test sites, and expertise in labor unions, workplace abuse scenarios, protests, or strikes. If you have experience with similar initiatives or ideas to enhance Tools for Anon Communal Actions, we'd love to collaborate! 🌷
+We're actively seeking partner organizations willing to pilot Tools for Anon Communal Actions in real-world settings. This would help us refine our approach based on practical implementation challenges and community needs. 🌺
+Please reach out at @ryanycwEth on Telegram if you're interested in discussing collaboration opportunities or supporting the project's development. 🌸
 
 **Further comments**  
-WIP
+A heartfelt thank you to all residents who shared their invaluable insights and feedback, and to the Community Privacy Residency for providing the perfect space for this idea to flourish! 🥰
+Feel free to connect with me on Telegram @ryanycwEth, Discord @ryanycw.eth, or Twitter @ryanycwEth. I'm passionate about protocol design in Ethereum space and applied cryptography, particularly exploring how programmable cryptography can create privacy-first and permissionless decentralized applications.

@@ -16,7 +16,7 @@ I wrote an essay and hosted a podcast interview with Audrey Tang, Taiwan’s cyb
 **Demo Day Video:**
 WIP
 
-**Support needed from residency/community:**  
+**Support requested from the community:**  
 Publishing/sharing with the residency’s funders/networks & funder introductions would be great!
 
 **Further comments:**

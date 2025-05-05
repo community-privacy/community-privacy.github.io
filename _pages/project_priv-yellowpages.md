@@ -10,7 +10,7 @@ Semantic matching with FHE and decentralized storage
 
 **Artifacts**
 
-- [Slides](https://www.canva.com/design/DAGiPuJmLz0/42q_LKJo3vZGS5ITLqr2Vg/edit)
+- Slides: [Privacy Preserving Yellowpages](https://www.canva.com/design/DAGiPuJmLz0/42q_LKJo3vZGS5ITLqr2Vg/edit)
 - [Github](https://github.com/rithikha/FHE-Semantic-Search)
 
 **Contributors**  
@@ -19,7 +19,7 @@ Rithikha Rajamohan
 **Demo Day Video:**  
 WIP
 
-**How can the residency/community support continued efforts on your project?**
+**Support requested from the community:**
 
 - Review of lattigo implementation
 - Connecting to funding sources

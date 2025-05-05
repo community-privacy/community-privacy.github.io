@@ -18,7 +18,7 @@ Kii Kang
 **Demo Day Video:**
 None
 
-**Support needed from residency/community:**  
+**Support requested from the community:**  
 Mentorship/expertise, connecting to funding sources, publicising your work
 
 **Further comments:**  

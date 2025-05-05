@@ -22,7 +22,7 @@ Anka Hu 🎉
 **Demo Day Video:**
 WIP
 
-**Support needed from residency/community:**
+**Support requested from the community:**
 
 - I’m looking for funding to continue building out the circuit library into functional applications! 🎉
 - I’d love for this work to be more visible (I’ve provided a 2-part hackmd writeup), and work with collaborators to see where TADA might be an interesting solution! 🎉

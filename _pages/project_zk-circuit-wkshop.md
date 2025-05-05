@@ -10,7 +10,7 @@ Workshop to introduce zkSNARks, ZK circuits, and Noir to programmers without a c
 
 **Artifacts:**
 
-- [Slides](https://github.com/ed255/sudoku-noir/blob/main/zk-circuits-slides.pdf)
+- Slides: [ZK Circuits Workshop](https://github.com/ed255/sudoku-noir/blob/main/zk-circuits-slides.pdf)
 - [Noir exercise](https://github.com/ed255/sudoku-noir/)
 
 **Contributors:**
@@ -19,7 +19,7 @@ Edu
 **Demo Day Video:**
 None
 
-**Support needed from residency/community:**  
+**Support requested from the community:**  
 Use the slides to teach, extend it via forking / pull requests.
 
 **Further comments:**

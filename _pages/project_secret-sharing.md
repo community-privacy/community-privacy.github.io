@@ -10,7 +10,7 @@ A usability study on the secret sharing UX pattern
 
 **Artifacts:**
 
-- [Slides](https://hackmd.io/@plaintextdesign/S1Lz7bPiJe#/)
+- Slides: [Shamir's Secret Sharing: A usability study](https://hackmd.io/@plaintextdesign/S1Lz7bPiJe#/)
 
 **Contributors:**
 Evie Winter
@@ -18,7 +18,7 @@ Evie Winter
 **Demo Day Video:**
 None
 
-**Support needed from residency/community:**  
+**Support requested from the community:**  
 I’m looking for funding to support further testing, both for Shamir’s Secret Sharing and similar privacy-preserving patterns!  
 If you are a designer interested in joining forces, please get in touch <3
 
