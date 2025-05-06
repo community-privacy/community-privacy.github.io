@@ -18,8 +18,7 @@ Olivia M Ross
 None
 
 **Support requested from the community:**  
-I would love to stay in touch with both the organizers and residents <3 I’d really love a round of feedback on the essay from you guys before publishing.  
-Hmmm, is there anyone you think I should talk to about this?
+I would love to stay in touch with both the organizers and residents <3
 
 **Further comments:**  
 _Still really curious about zk use cases for documentarianssss will be fussing around with this in the following months._
