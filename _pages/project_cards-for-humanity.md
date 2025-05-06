@@ -9,14 +9,21 @@ nav: false
 A card game bridging the worlds of community organizing and technical work
 
 **Artifacts:**
-
-- Slides: [cardsgame.pdf](https://drive.google.com/file/d/15pzClGN3hSVBCrGO8CYk4FTh27K6-7Z-/view?usp=drive_link)
+Slides: [cardsgame.pdf](https://drive.google.com/file/d/15pzClGN3hSVBCrGO8CYk4FTh27K6-7Z-/view?usp=drive_link)
 
 **Contributors:**
 Laura Sinisterra
 
 **Demo Day Video:**
-WIP
+
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/dOoraxZ3OK8" 
+  title="Demo Day Video" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
+<div style="margin-top: 1rem;"></div>
 
 **Support requested from the community:**  
 Mentorship/expertise, publicising your work

@@ -14,7 +14,13 @@ I wrote an essay and hosted a podcast interview with Audrey Tang, Taiwan’s cyb
 - [doing DOGE right ft. Audrey Tang](https://link-to-artifact)
 
 **Demo Day Video:**
-WIP
+
+<iframe width="560" height="315" 
+  src="https://youtu.be/NvnNKUVC2xU" 
+  title="Demo Day Video" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 
 **Support requested from the community:**  
 Publishing/sharing with the residency’s funders/networks & funder introductions would be great!

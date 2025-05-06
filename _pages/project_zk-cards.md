@@ -19,7 +19,22 @@ A card game to help understand the endless and evolving technologies in the Worl
 Jayaditya Gupta
 
 **Demo Day Video:**
-WIP
+
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/tITM_alpg2o" 
+  title="Demo Day Video" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/7qDg8N4JvK4" 
+  title="Demo Day Video" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
+<div style="margin-top: 1rem;"></div>
 
 **Support requested from the community:**  
 Public publishing and maybe tweet about the project 😀

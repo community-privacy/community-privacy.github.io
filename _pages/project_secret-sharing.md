@@ -15,9 +15,6 @@ A usability study on the secret sharing UX pattern
 **Contributors:**
 Evie Winter
 
-**Demo Day Video:**
-None
-
 **Support requested from the community:**  
 I’m looking for funding to support further testing, both for Shamir’s Secret Sharing and similar privacy-preserving patterns!  
 If you are a designer interested in joining forces, please get in touch <3

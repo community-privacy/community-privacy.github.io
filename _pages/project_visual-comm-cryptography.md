@@ -11,6 +11,15 @@ Money mule accounts are frequently used in money laundering operations between T
 **Artifacts:**
 Slides: [Visual Communication for Cryptography](https://docs.google.com/presentation/d/1Y4mqrXbmdac4u9mVek5oeAjFm-16nLzYouXbrANoazA/edit#slide=id.g33db8698337_0_44)
 
+**Demo Day Video:**
+
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/4kwOR0MfiLk" 
+  title="Demo Day Video" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
 **Contributors:**
 CC Liang
 

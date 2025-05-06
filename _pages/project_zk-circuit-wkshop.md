@@ -16,9 +16,6 @@ Workshop to introduce zkSNARks, ZK circuits, and Noir to programmers without a c
 **Contributors:**
 Edu
 
-**Demo Day Video:**
-None
-
 **Support requested from the community:**  
 Use the slides to teach, extend it via forking / pull requests.
 

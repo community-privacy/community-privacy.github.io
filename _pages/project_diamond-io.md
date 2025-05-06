@@ -16,8 +16,23 @@ A straightforward lattice-based construction of indistinguishability obfuscation
 **Contributors:**
 Sora Suegami, Enrico Bottazzi, Pia Park
 
-**Demo Day Video:**
-WIP
+**Demo Day Video(s):**
+
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/gdXzzr-TGkc" 
+  title="Demo Day Video" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/VWO5I0rfbhU" 
+  title="Demo Day Video" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
+<div style="margin-top: 1rem;"></div>
 
 **Support requested from the community:**
 

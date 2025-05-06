@@ -17,9 +17,6 @@ Mitan is a proof of concept app that matches reports with shared concerns comple
 **Contributors:**
 Emma Guo
 
-**Demo Day Video:**
-Yes
-
 **Support requested from the community:**  
 Mentorship, advice, and use case ideas!
 

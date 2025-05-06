@@ -20,7 +20,15 @@ A flexible and elegant time-based protocol for deniable authentication! 🎉
 Anka Hu 🎉
 
 **Demo Day Video:**
-WIP
+
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/OLNC8uK4mxU" 
+  title="Demo Day Video" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
+<div style="margin-top: 1rem;"></div>
 
 **Support requested from the community:**
 

@@ -16,8 +16,40 @@ Exploring how mutually distrusting parties can collaboratively and privately tra
 **Contributors:**
 Yuriko Nishijima, Val Elefante
 
-**Demo Day Video:**
-WIP
+**Demo Day Video(s):**
+
+Val on use cases research (midpoint demos):
+
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/LNX6rYS8xTY" 
+  title="Demo Day Video" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
+<div style="margin-top: 1rem;"></div>
+
+Yuriko on technical implementations (midpoint demos):
+
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/Cc3243BXo3w" 
+  title="Demo Day Video" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
+<div style="margin-top: 1rem;"></div>
+
+Val (final demo day):
+
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/MbiNwMHtXhI" 
+  title="Demo Day Video" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
+<div style="margin-top: 1rem;"></div>
 
 **Support requested from the community:**
 

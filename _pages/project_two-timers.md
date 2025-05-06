@@ -17,7 +17,25 @@ A privacy-preserving version of “are we dating the same guy/girl?” concept.
 Jayaditya Gupta
 
 **Demo Day Video:**
-WIP
+
+Midpoint demo day:
+
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/2_4yzWMBFPY" 
+  title="Demo Day Video" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
+Final demo day:
+
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/vFi1EY9FEvU" 
+  title="Demo Day Video" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+<div style="margin-top: 1rem;"></div>
 
 **Support requested from the community:**  
 Help me with making the project more secure and private by sharing ideas/criticizing it too.

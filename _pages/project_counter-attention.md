@@ -15,11 +15,8 @@ Counter-Attention Archive documents and archives the work of scholars and artist
 **Contributors:**
 Kii Kang
 
-**Demo Day Video:**
-None
-
 **Support requested from the community:**  
 Mentorship/expertise, connecting to funding sources, publicising your work
 
 **Further comments:**  
-WIP
+_Point of contact: e [kiikang@proton.me](mailto:kiikang@proton.me), ig [@wonkybynight](https://www.instagram.com/wonkybynight)_

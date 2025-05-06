@@ -16,9 +16,6 @@ Semantic matching with FHE and decentralized storage
 **Contributors**  
 Rithikha Rajamohan
 
-**Demo Day Video:**  
-WIP
-
 **Support requested from the community:**
 
 - Review of lattigo implementation

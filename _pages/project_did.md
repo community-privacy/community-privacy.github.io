@@ -17,9 +17,6 @@ A deep-dive into privacy requirements and features of the EUDI framework
 **Contributors**  
 Ying Tong, Vishruti Ganesh, Janabel Xia, Riley Wong
 
-**Demo Day Video:**  
-WIP
-
 **Support requested from the community:**
 
 - Threat modelling, sharing lived experiences and exploring different deployment contexts
