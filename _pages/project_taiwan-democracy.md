@@ -16,7 +16,7 @@ I wrote an essay and hosted a podcast interview with Audrey Tang, Taiwan’s cyb
 **Demo Day Video:**
 
 <iframe width="560" height="315" 
-  src="https://youtu.be/NvnNKUVC2xU" 
+  src="https://youtube.com/embed/NvnNKUVC2xU" 
   title="Demo Day Video" frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen>
