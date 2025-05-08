@@ -308,7 +308,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ["meta", "reflections", "math", "research", "code"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+# display_categories: ["from-the-organizers"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
