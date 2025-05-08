@@ -10,8 +10,8 @@ I wrote an essay and hosted a podcast interview with Audrey Tang, Taiwan’s cyb
 
 **Artifacts:**
 
-- [garbage in, garbage out](https://link-to-artifact)
-- [doing DOGE right ft. Audrey Tang](https://link-to-artifact)
+- [garbage in, garbage out](https://jasmi.news/p/taiwan-2025)
+- [doing DOGE right ft. Audrey Tang](https://jasmi.news/p/doing-doge-right-ft-audrey-tang)
 
 **Demo Day Video:**
 
