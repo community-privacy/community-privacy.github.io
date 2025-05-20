@@ -6,7 +6,7 @@ nav: false
 ---
 
 **Project description:**  
-A privacy-preserving version of “are we dating the same guy/girl?” concept.
+A privacy-preserving version of “are we dating the same person?” concept.
 
 **Artifacts:**
 
