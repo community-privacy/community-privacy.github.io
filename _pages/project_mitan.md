@@ -10,7 +10,7 @@ Mitan is a proof of concept app that matches reports with shared concerns comple
 
 **Artifacts:**
 
-- Slides: [Mitan presentation](https://github.com/emmaguo13/phantom-zone/tree/emma/pnns)
+- Slides: [Mitan presentation](https://docs.google.com/presentation/d/1GydH7QESBp9iIgP9tkX9LNln0QYKEZ9LRV7xW8Yr2Is/edit?usp=sharing)
 - [Github (FHE code)](https://github.com/emmaguo13/phantom-zone/tree/emma/pnns)
 - [Github (in progress app)](https://github.com/emmaguo13/fhe-workplace)
 
