@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /red-team-tech-policy/
-title: Red Team Tech Policy
+title: Red Teaming Tech Policy
 nav: false
 ---
 
