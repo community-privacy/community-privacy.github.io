@@ -17,7 +17,13 @@ We invite community builders, engineers, designers, cryptographers, researchers,
 
 ---
 
-## Residency Info
+We are currently underway in organizing for next year's residency -- stay tuned! Tentatively we'll be aiming for summer 2026, more info to come. In the meantime, we strongly encourage you to check out our [highlights from 2025](https://community-privacy.github.io/recap-highlights-2025/)!
+
+The information below was for our previous residency that ran in Feb 2025. 
+
+---
+
+## 2025 Residency Info
 
 - Residency Dates: 2/16/2025 - 3/22/2025
 - Location: Taipei, Taiwan
