@@ -1,6 +1,6 @@
 ---
-layout: about
-title: About
+layout: page
+title: Community Privacy Residency (2025)
 permalink: /2025-about/
 subtitle:
 

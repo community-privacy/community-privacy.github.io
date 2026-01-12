@@ -6,7 +6,7 @@ nav: true
 nav_order: 6
 dropdown: true
 children:
-  - title: About
+  - title: Info
     permalink: /2025-about/
   - title: Partners
     permalink: /2025-partners/
