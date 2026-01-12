@@ -6,9 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-## Organizing Team
-
-We’re always looking for opportunities to collaborate with the broader ecosystem. If you have any questions, comments, ideas, concerns, etc. you can contact the organizers here:
+We’re always looking for opportunities to collaborate with the broader ecosystem. If you have any questions, comments, ideas, or more, we would love to hear from you.
 
 #### >> [Ying Tong Lai](https://github.com/therealyingtong) (she/her)
 
