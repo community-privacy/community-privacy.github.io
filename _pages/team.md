@@ -3,7 +3,7 @@ layout: page
 permalink: /team
 title: Team
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 ## Organizing Team

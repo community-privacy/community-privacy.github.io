@@ -3,7 +3,7 @@ layout: page
 permalink: /resources/
 title: Resources
 nav: true
-nav_order: 4
+nav_order: 2
 ---
 
 Our organizing team has compiled a non-exhaustive list of relevant resources. We hope these can be useful both for brainstorming project ideas as well as general learning.
