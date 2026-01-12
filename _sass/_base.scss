@@ -4,6 +4,28 @@
 
 // Custom
 
+html {
+  font-size: 16px;
+  overflow-y: scroll; // Prevents scrollbar appearing/disappearing
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  font-size: 1.05rem;
+  letter-spacing: 0.3px;
+}
+
+// Fix header if that's what's shifting
+.navbar {
+  height: 56px;
+  min-height: 56px;
+}
+
+//
+
 h1,
 h2,
 h3,
@@ -14,12 +36,6 @@ h6 {
 }
 
 // Typography
-
-body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1.05rem;
-  letter-spacing: 0.3px;
-}
 
 p,
 h1,
