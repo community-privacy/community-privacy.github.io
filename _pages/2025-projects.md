@@ -1,8 +1,7 @@
 ---
 layout: page
-permalink: /projects/
+permalink: /2025-projects/
 title: Projects
-nav: true
 nav_order: 5
 ---
 
