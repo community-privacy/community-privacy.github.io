@@ -1,50 +1,21 @@
 ---
 layout: page
-permalink: /partners/
-title: Partners
+permalink: /team
+title: Team
 nav: true
-nav_order: 5
----
-
-## Sponsors
-
-Our deep appreciation goes towards our sponsors for making this residency possible. We are an entirely grant-funded residency without profit incentives, and welcome any grants and donations from the applied cryptography community and beyond.
-
-Want to support our mission? Check out our [OpenCollective fundraiser](https://opencollective.com/community-privacy) for bank transfers and credit cards, [Giveth](https://giveth.io/project/community-privacy-residency) for cryptocurrency, or otherwise [get in touch](/contact)!
-
-- [GCC](https://gccofficial.org/): Funding and supporting the development of global digital public goods.
-- [Privacy & Scaling Explorations](https://pse.dev/): Building free resources for people expanding the world of programmable cryptography.
-- [Ethereum Foundation Ecosystem Support Program](https://esp.ethereum.foundation/): Grants and other support to the builders of the Ethereum ecosystem.
-- [Public Good Crypto](https://publicgoodcrypto.org/): Funds cryptography research to secure the internet and to push digital human rights forward.
-- [SPARC](https://www.sparc.camp/): A free program for talented high schoolers to develop quantitative skills and apply them to the world.
-- [James Zaki](https://events.humanitix.com/host/weekly-web3-workshops): Empowering people to gain an Independent Level Up.
-- [Pollen Labs](https://pollenlabs.org/): Building a better world through open-source & blockchain technology.
-
----
-
-## Community Partners and Friends of the Residency
-
-We are grateful to support and be supported by our broader community of friends and collaborators, including:
-
-- [Plurality Institute](https://www.plurality.institute/)
-- [Taiwan Digital Identity Project](https://www.wallet.gov.tw/)
-- [Cursive](https://www.cursive.team/)
-- [ZK Email](https://prove.email/)
-- [MPCStats](https://pse.dev/en/projects/mpc-stats)
-- [Privacy & Scaling Explorations](https://pse.dev/en)
-- [DWeb](https://getdweb.net/)
-- [Emergent Research](https://emergentresearch.net/)
-- and more <3
-
+nav_order: 4
 ---
 
 ## Organizing Team
 
-Our organizing team consists of:
+We’re always looking for opportunities to collaborate with the broader ecosystem. If you have any questions, comments, ideas, concerns, etc. you can contact the organizers here:
 
 #### >> [Ying Tong Lai](https://github.com/therealyingtong) (she/her)
 
 [Ying Tong](https://github.com/therealyingtong) is an applied cryptographer working on zero-knowledge proofs and multi-party computation. She is a regular contributor to community and educational initiatives (e.g. [zkiap.com](https://zkiap.com), [halo2.club](https://halo2.club)), as well as standards efforts ([zkproof.org](https://zkproof.org)).
+
+- Email: [yingtong.lai@gmail.com](mailto:yingtong.lai@gmail.com)
+- Telegram: [@aubreymoss](https://t.me/aubreymoss)
 
 #### >> [Riley Wong](https://www.emergentresearch.net/) (they/them)
 
@@ -54,6 +25,9 @@ They’ve [written](https://ash.harvard.edu/resources/privacy-preserving-data-go
 
 Previously, they were a research fellow with [0xPARC](https://0xparc.org/), machine learning engineer at Google, investigative journalism fellow at ProPublica, and a QTBIPOC community organizer.
 
+- Email: [rileynwong@gmail.com](mailto:rileynwong@gmail.com)
+- Telegram: [@rrriley](https://t.me/rrriley)
+
 #### >> [Janabel Xia](https://www.janabelx.com/) (she/her)
 
 Janabel Xia (she/her) is a mathematician working on researching and developing applications of privacy for communities.
@@ -61,3 +35,6 @@ Janabel Xia (she/her) is a mathematician working on researching and developing a
 Previously, she has worked with [0xPARC](https://0xparc.org/) on research, building applications of ZKPs ([POD counting](https://github.com/janabel/frog-POD-counting), [private polling](https://github.com/zk-poll/zk-poll)), educational resources, and outreach. Prior to that, she has published academic research in both [combinatorics](https://ecajournal.haifa.ac.il/Volume2024/ECA2024_S2A23.pdf) and [theoretical cryptography](https://eprint.iacr.org/2022/573.pdf) as an MIT undergrad.
 
 She has also led community engagement programs out of the [MIT PKG Center for Public Service](https://pkgcenter.mit.edu/). Her experience there has led to her current involvement in [Justice 4 Housing](https://justice4housing.org/), a local grassroots organization tackling housing justice and re-entry support for the formerly incarcerated.
+
+- Email: [janabeltxia@gmail.com](mailto:janabeltxia@gmail.com)
+- Telegram: [@janabelx](https://t.me/janabelx)

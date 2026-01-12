@@ -9,113 +9,46 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-**A 2-4 week residency focused on researching, co-designing, prototyping, and building open-source applications for community privacy, with emphasis on Applications for Vulnerable Communities, Community Co-Design, and Privacy Infrastructure.** _Please stay tuned for updates on residency takeaways, project outputs, and future directions._
+A **3-week residency** bringing together researchers, builders, and community organizers to co-design and build open-source tools for **community privacy**, with a focus this year on **Countersurveillance**, **Privacy & Cryptography in AI**, and **Community Infrastructure**.
 
-As cryptographic and privacy-preserving applications mature beyond the infrastructure layer to reach end-users, it is crucial to anchor their design in the needs of real-world communities. This residency brings together researchers, builders, and community members to explore human-centric methodologies, such as participatory co-design and participatory threat modeling, in consideration of the privacy needs of marginalised groups.
+As surveillance technologies proliferate and AI systems reshape how data is collected and used, communities need practical, human-centered privacy tools. The Community Privacy Residency supports collaborative research and prototyping, grounded in real-world community needs, participatory design, and an open-source ethos.
 
-We invite community builders, engineers, designers, cryptographers, researchers, technologists, labor organizers, journalists, policymakers, members of vulnerable communities, and advocates for digital safety, bodily autonomy, privacy, and more to join us.
-
----
-
-We are currently underway in organizing for next year's residency -- stay tuned! Tentatively we'll be aiming for summer 2026, more info to come. In the meantime, we strongly encourage you to check out our [highlights from 2025](https://community-privacy.github.io/recap-highlights-2025/)!
-
-The information below was for our previous residency that ran in Feb 2025. 
+We open applications in early February, stay tuned for updates. In the meantime, check out our [highlights from 2025](https://community-privacy.github.io/recap-highlights-2025/).
 
 ---
 
-## 2025 Residency Info
+## 2026 Residency Info
 
-- Residency Dates: 2/16/2025 - 3/22/2025
-- Location: Taipei, Taiwan
+- Dates: July 15 – August 6, 2026
+- Location: Berlin, Germany
 
-This residency offers:
+The Community Privacy Residency convenes experienced practitioners across research, participatory design, community organizing, policy, engineering, cryptography, privacy, security, journalism, activism, and more.
 
-- Registration for RightsCon, Feb 24 - 27
-- Travel stipend and accommodations for non-local residents
-- Dedicated environment for learning and collaboration
-- Community building with local privacy and governance groups
+Residents learn, collaborate, and build through open-source research and prototyping focused on real-world community privacy needs. Alongside focused project work, we emphasize community building and cultivating an environment that is rigorous, generative, and compassionate.
 
-We encourage residents to attend RightsCon, participate in community events, open-source project outputs, document processes, share learnings, and demo work with the broader community.
+The residency is intentionally designed to encourage cross-domain collaboration and learning among experts in their field, develop high-quality open-source outputs, and foster a long-term community that continues beyond the residency.
+
+Residents will:
+
+- Collaborate across disciplines on research, co-design, and prototyping
+- Learn with and from one another through residency programming and peer-led workshops
+- Develop and publish open-source projects
+- Join a growing alumni ecosystem of multi-domain experts working at the intersections of technology, privacy, design, and activism
 
 ---
 
 ## Project Tracks
 
-The theme of the residency will be "community privacy," i.e. privacy and cryptography tools that protect and empower communities from the ground up. Community privacy means creating safe spaces for vulnerable communities to live, share, organize, and interact with those outside their community.
+Our project tracks are meant to be inspirational rather than prescriptive, representing areas of focus for the upcoming residency we believe will be especially pertinent or impactful. Residents are welcome to collaborate on projects beyond these proposed focus areas. More details and example project ideas will be shared when applications open.
 
-Below are proposed project tracks and example project ideas. We also expect flexibility and potential for new tracks relevant to these themes to emerge throughout the residency. Feel free to propose your own project!
+### Countersurveillance
 
-### >> Applications for Vulnerable Communities
+How can we detect if we are being surveilled? What measures can we take to resist these modes of surveillance, and to hold corporations and governments accountable? Countersurveillance begins in understanding our rights as citizens and consumers; auditing the services and policies that we interact with; and taking action to resist violations of our privacy.
 
-- building privacy-preserving coordination tools, such as using multi-party computation or multi-party fully homomorphic encryption for whistleblowing, labor strikes, reporting abuse, or mutual aid
-- compiling a privacy guide for vulnerable communities, with specific tools and use cases
-- analyzing data using multi-party statistics libraries for a specific community with privacy needs
-- updating [Callisto Vault](https://www.projectcallisto.org/callistovault) with zkEmail, MP-FHE
+### Privacy & Cryptography in AI
 
-### >> Community Co-Design
+What are the implications of cryptography for AI safety? What frameworks do we have for data ownership, governance, and privacy in model training? This track focuses on both privacy layers around AI usage and the implications of cryptography for AI Safety and efficiency and encompasses privacy-preserving machine learning, cryptographic techniques for AI safety and efficiency, and data governance, consent, and agency.
 
-- facilitating a participatory co-design session with a specific community or topic, e.g. non-consensual media abuse, privacy needs for labor organizing or journalism, data autonomy for intimate digital media, data strikes
-- conducting UX research, user interviews, or creating mockups for consent interfaces
-- gathering feedback on existing privacy tools, social media platforms, or applications and identifying gaps in safety features and privacy needs
-- documenting threat models, e.g.: [Invariant-Centric Threat Modelling](https://github.com/defuse/ictm); "[On Privacy Notions in Secure Communication](https://www.freehaven.net/anonbib/cache/notions-pets2019.pdf)"
+### Community Infrastructure
 
-### >> Privacy Infrastructure
-
-- publishing a project boilerplate, writing a tutorial, or adding technical documentation for an existing cryptographic framework, e.g. zero-knowledge, multi-party computation, fully homomorphic encryption, trusted executive environments, proof-carrying data
-- integrating verifiable ID into community governance platforms, e.g. Polis, for private messaging boards, private majority reports, hierarchy of opinions (e.g. concept of expert analyses)
-- testing or auditing existing data provenance tools
-
----
-
-## Expected Outcomes
-
-In addition to building relationships and community, as well as organizing events for privacy, cryptography, and community organizing, we anticipate the creation of:
-
-- **Open-source technical prototypes** and proofs-of-concept of privacy-preserving tools and community-focused applications
-- **Original research** and writing, e.g. blog posts, whitepapers, reports, policy briefs
-- Development of **educational resources** and guides, e.g. publications or public-facing workshops
-- **Participatory co-design workshops**, including write-ups of learnings and takeaways, and process documentation
-
-We will facilitate sharing public outputs such as:
-
-- **Community workshops and workshares** from residents and local Taipei communities
-- **Demo day** on the last day
-- **Written publication** collating outputs: progress reports, new projects, publications, documentation, etc.
-
----
-
-## Frequently Asked Questions
-
-##### **Do I need to be a cryptography expert to apply?**
-
-No, we are seeking domain experts in many areas, including design, governance, community organizing, journalism, labor, policy, and many more! If you are a member of a vulnerable community or a community with privacy needs, we would love to hear from you.
-
-##### **When can I expect to hear back?**
-
-We will be reviewing the days following the deadline and aim send out decisions by 1/17. We understand it takes time to make arrangements, including visa considerations.
-
-##### **Will my travel and housing be covered?**
-
-We will cover travel and accommodations, and/or provide full or partial stipends, with priority for those with financial need.
-
-##### **Can I work full-time and still do the residency?**
-
-We would prefer residents be able to show up with presence and to spend dedicated time and energy with our residency cohort. If you need to take time off to make this work, we will have a limited number of 2-week residency options available.
-
-##### **Do I have to physically be present for the duration of the residency?**
-
-Yes, we value having residents share physical space for building community. We may find other ways for remote participation, such as through streaming talks or facilitating an online community, to be announced.
-
-##### **What kinds of projects are you looking for?**
-
-We list a few example project ideas under each project track for inspiration, as well as a bit of [application guidance](/application). We anticipate project proposals to evolve or emerge as residents meet one another, attend RightsCon, and find opportunities for collaboration. While proposals are non-committal, we’re interested in seeing demonstrated vision, impact, execution, and potential for longer-term collaboration.
-
-Some guiding questions may include: How is privacy and/or cryptography inherent to the project and its success? How does your project center community needs, and is there a specific community in mind?
-
-##### **Do you have any recommended resources to learn more about participatory co-design, privacy and cryptography, etc.?**
-
-Take a look at our [Resources](/resources) page.
-
-##### **How can I co-organize an event, collaborate with, or sponsor Community Privacy efforts?**
-
-Consider contributing to our [OpenCollective](https://opencollective.com/community-privacy), [Giveth](https://giveth.io/project/community-privacy-residency), or otherwise [get in touch](/contact) about sponsoring or collaborating with us!
+Digital public infrastructure can support public goods for the masses. At the same time, what happens when state or corporate systems become unreliable, exploitative, or antagonistic? This track focuses on community infrastructure that is human-centered, cryptography-enabled, and/or privacy-first, such as through frameworks of platform justice, collective data action, censorship or surveillance resistance, and more.
