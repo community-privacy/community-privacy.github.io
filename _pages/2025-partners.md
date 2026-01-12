@@ -36,4 +36,3 @@ We are grateful to support and be supported by our broader community of friends 
 - [DWeb](https://getdweb.net/)
 - [Emergent Research](https://emergentresearch.net/)
 - and more <3
-
