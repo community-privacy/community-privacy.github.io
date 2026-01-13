@@ -41,14 +41,14 @@ Residents will:
 
 Our project tracks are meant to be inspirational rather than prescriptive, representing areas of focus for the upcoming residency we believe will be especially pertinent or impactful. Residents are welcome to collaborate on projects beyond these proposed focus areas. More details and example project ideas will be shared when applications open.
 
-### Countersurveillance
+### >> Countersurveillance
 
 How can we detect if we are being surveilled? What measures can we take to resist these modes of surveillance, and to hold corporations and governments accountable? Countersurveillance begins in understanding our rights as citizens and consumers; auditing the services and policies that we interact with; and taking action to resist violations of our privacy.
 
-### Privacy & Cryptography in AI
+### >> Privacy & Cryptography in AI
 
 What are the implications of cryptography for AI safety? What frameworks do we have for data ownership, governance, and privacy in model training? This track focuses on both privacy layers around AI usage and the implications of cryptography for AI Safety and efficiency and encompasses privacy-preserving machine learning, cryptographic techniques for AI safety and efficiency, and data governance, consent, and agency.
 
-### Community Infrastructure
+### >> Community Infrastructure
 
 Digital public infrastructure can support public goods for the masses. At the same time, what happens when state or corporate systems become unreliable, exploitative, or antagonistic? This track focuses on community infrastructure that is human-centered, cryptography-enabled, and/or privacy-first, such as through frameworks of platform justice, collective data action, censorship or surveillance resistance, and more.
