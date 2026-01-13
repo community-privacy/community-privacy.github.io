@@ -30,7 +30,7 @@ The residency is intentionally designed to encourage cross-domain collaboration 
 
 Residents will:
 
-- Collaborate across disciplines on research, co-design, prototyping, and more 
+- Collaborate across disciplines on research, co-design, prototyping, and more
 - Learn with and from one another through residency programming and peer-led workshops
 - Develop and publish open-source projects
 - Join a growing alumni ecosystem of multi-domain experts working at the intersections of technology, privacy, design, and activism
