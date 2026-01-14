@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /2025-projects/
-title: Projects
+title: Projects (2025)
 nav_order: 5
 ---
 

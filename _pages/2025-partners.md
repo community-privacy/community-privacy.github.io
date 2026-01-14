@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /2025-partners/
-title: Partners
+title: Partners (2025)
 nav: false
 nav_order: 5
 parent: Archive (2025)
