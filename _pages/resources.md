@@ -29,6 +29,7 @@ Our organizing team has compiled a non-exhaustive list of relevant resources. We
 
 ### Guides: Privacy, Digital Safety and Self-Defense
 
+- [Glitch Armour - Toolkit](https://www.glitcharmour.org/)
 - [Digital Defense Fund: Privacy Guides](https://digitaldefensefund.org/ddf-guides)
 - [T4Tech: Digital Personas Zine, Doxxing Self Defense](https://t4tech-nyc.github.io/)
 - [Zebra Crossing: Digital Safety Checklist](https://zebracrossing.narwhalacademy.org/)
