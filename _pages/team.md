@@ -15,7 +15,7 @@ Ying Tong is an applied cryptographer working on zero-knowledge proofs and multi
 - Telegram: [@mossy711](https://t.me/mossy711)
 
 #### >> [Riley Wong](https://www.emergentresearch.net/) (they/them)
-Riley Wong (they/them) is the Principal of Emergent Research, a research lab and consultancy on privacy, governance, and data. Their research focuses on privacy for vulnerable communities, cryptography as digital infrastructure, and community governance. They’ve written, spoken, or researched at MIT, Harvard, Yale, Penn, Google, ProPublica, Metagov, 0xPARC, Fenbushi Research, Devcon, DWeb, and more.
+Riley Wong (they/them) is the Principal of [Emergent Research](https://emergentresearch.net/), a research lab and consultancy on privacy, governance, and data. Their research focuses on privacy for vulnerable communities, cryptography as digital infrastructure, and community governance. They’ve written, spoken, or researched at MIT, Harvard, Yale, Penn, Google, ProPublica, Metagov, 0xPARC, Fenbushi Research, Devcon, DWeb, and more.
 
 - Email: [rileynwong@gmail.com](mailto:rileynwong@gmail.com)
 - Telegram: [@rrriley](https://t.me/rrriley)
