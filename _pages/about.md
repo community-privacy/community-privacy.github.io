@@ -13,7 +13,7 @@ A **3-week residency** bringing together researchers, builders, and community or
 
 As surveillance technologies proliferate and AI systems reshape how data is collected and used, communities need practical, human-centered privacy tools. The Community Privacy Residency supports collaborative research and prototyping, grounded in real-world community needs, participatory design, and an open-source ethos.
 
-We open applications in early February, stay tuned for updates. In the meantime, check out our [highlights from 2025](https://community-privacy.github.io/recap-highlights-2025/).
+We open applications in late February, stay tuned for updates. In the meantime, check out our [highlights from 2025](https://community-privacy.github.io/recap-highlights-2025/).
 
 ---
 
