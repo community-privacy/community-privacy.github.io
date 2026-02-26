@@ -13,14 +13,20 @@ A **3-week residency** bringing together researchers, builders, and community or
 
 As surveillance technologies proliferate and AI systems reshape how data is collected and used, communities need practical, human-centered privacy tools. The Community Privacy Residency supports collaborative research and prototyping, grounded in real-world community needs, participatory design, and an open-source ethos.
 
-We open applications in late February, stay tuned for updates. In the meantime, check out our [highlights from 2025](https://community-privacy.github.io/recap-highlights-2025/).
+---
+
+## 2026 Applications Open!
+
+We’re so excited to announce that **applications for the Community Privacy Residency 2026 are open!** Applications due Sunday, March 29: https://tinyurl.com/cpr-app-2026 
+
+\+ We welcome community partners, sponsors, and collaborators. If you or your organization are interested in supporting or collaborating on community-driven privacy infrastructure and applied cryptography work, let’s talk! communityprivacyteam@protonmail.com
 
 ---
 
 ## 2026 Residency Info
 
 - Dates: July 15 – August 6, 2026
-- Location: Berlin, Germany
+- Location: Berlin, Germany at [Projektraum Drahnsdorf](http://projektraum-drahnsdorf.de/), a community focusing on sustainability, participatory democracy, and rural revitalisation in Brandenburg.
 
 The Community Privacy Residency convenes experienced practitioners across research, participatory design, community organizing, policy, engineering, cryptography, privacy, security, journalism, activism, and more.
 
