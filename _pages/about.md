@@ -19,7 +19,7 @@ As surveillance technologies proliferate and AI systems reshape how data is coll
 
 We’re so excited to announce that **applications for the Community Privacy Residency 2026 are open!** Applications due Sunday, March 29: [https://tinyurl.com/cpr-app-2026](https://tinyurl.com/cpr-app-2026)
 
-\+ We welcome community partners, sponsors, and collaborators. If you or your organization are interested in supporting or collaborating on community-driven privacy infrastructure and applied cryptography work, let’s talk! communityprivacyteam@protonmail.com
+\+ We welcome community partners, sponsors, and collaborators. If you or your organization are interested in supporting or collaborating on community-driven privacy infrastructure and applied cryptography work, let’s talk! [communityprivacyteam@protonmail.com](mailto:communityprivacyteam@protonmail.com)
 
 ---
 
