@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-We’re always looking for opportunities to collaborate with the broader ecosystem. If you have any questions, comments, ideas, or more, we would love to hear from you.
+We’re always looking for opportunities to collaborate with the broader ecosystem. If you have any questions, comments, ideas, or more, we would love to hear from you: [communityprivacyteam@protonmail.com](mailto:communityprivacyteam@protonmail.com)
 
 #### >> [Ying Tong Lai](https://github.com/therealyingtong) (she/her)
 
