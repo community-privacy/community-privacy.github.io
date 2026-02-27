@@ -17,7 +17,7 @@ Ying Tong is an applied cryptographer working on zero-knowledge proofs and multi
 
 #### >> [Riley Wong](https://www.emergentresearch.net/) (they/them)
 
-Riley Wong (they/them) is the Principal of [Emergent Research](https://emergentresearch.net/), a research lab and consultancy on privacy, governance, and data. Their research focuses on privacy for vulnerable communities, cryptography as digital infrastructure, and community governance. They’ve written, spoken, or researched at MIT, Harvard, Yale, Penn, Google, ProPublica, Metagov, 0xPARC, Fenbushi Research, Devcon, DWeb, and more.
+Riley Wong (they/them) is the Principal of [Emergent Research](https://emergentresearch.net/), investigating [collective data action](https://www.emergentresearch.net/blog/community-infrastructure-for-privacy-agency-and-consent) and [community privacy, agency, and consent](https://fortunately.us/digital-public-infrastructure). Their work focuses on privacy and [cryptography](https://fenbushi.vc/2025/08/29/the-landscape-of-multi-party-fully-homomorphic-encryption/) for [vulnerable communities](https://www.rileynwong.com/blog/2024/11/17/talk-applications-of-mp-fhe-for-vulnerable-communities), [consent-based](https://www.emergentresearch.net/consent-interfaces) digital infrastructure, and collective [data governance](https://ash.harvard.edu/resources/privacy-preserving-data-governance/). Previously, they've worked as a machine learning engineer at Google, investigative journalism fellow at ProPublica, and a QTBIPOC community organizer, and they’ve written, spoken, or researched at MIT, Harvard, Yale, Metagov, 0xPARC, DWeb, and more.
 
 - Email: [rileynwong@gmail.com](mailto:rileynwong@gmail.com)
 - Telegram: [@rrriley](https://t.me/rrriley)
