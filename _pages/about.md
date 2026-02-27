@@ -18,6 +18,7 @@ As surveillance technologies proliferate and AI systems reshape how data is coll
 ## 2026 Applications Open!
 
 **Applications for the Community Privacy Residency 2026 are now open!**
+
 - Deadline: **Sunday, March 29, 2026**
 - **Apply here**: [https://tinyurl.com/cpr-app-2026](https://tinyurl.com/cpr-app-2026)
 
