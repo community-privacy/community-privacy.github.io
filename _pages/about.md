@@ -9,46 +9,37 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-A **3-week residency** bringing together researchers, builders, and community organizers to co-design and build open-source tools for **community privacy**, with a focus this year on **Countersurveillance**, **Privacy & Cryptography in AI**, and **Community Infrastructure**.
+The Community Privacy Residency is a **3-week residency** bringing together researchers, builders, and community organizers to co-design and build open-source tools for **community privacy**, with a focus this year on **Countersurveillance**, **Privacy & Cryptography in AI**, and **Community Infrastructure**.
 
-As surveillance technologies proliferate and AI systems reshape how data is collected and used, communities need practical, human-centered privacy tools. The Community Privacy Residency supports collaborative research and prototyping, grounded in real-world community needs, participatory design, and an open-source ethos.
+As surveillance technologies proliferate and AI systems reshape how data is collected and used, communities need practical, human-centered privacy infrastructure grounded in real-world community needs, participatory design, and an open-source ethos.
 
 ---
 
 ## 2026 Applications Open!
 
-We’re so excited to announce that **applications for the Community Privacy Residency 2026 are open!** Applications due Sunday, March 29: [https://tinyurl.com/cpr-app-2026](https://tinyurl.com/cpr-app-2026)
+**Applications for the Community Privacy Residency 2026 are now open!** 
+Deadline: **Sunday, March 29**
+**Apply here**: [https://tinyurl.com/cpr-app-2026](https://tinyurl.com/cpr-app-2026)
 
-\+ We welcome community partners, sponsors, and collaborators. If you or your organization are interested in supporting or collaborating on community-driven privacy infrastructure and applied cryptography work, let’s talk! [communityprivacyteam@protonmail.com](mailto:communityprivacyteam@protonmail.com)
+We also welcome community partners, sponsors, and collaborators. If you or your organization are interested in supporting or collaborating on community-driven privacy infrastructure and applied cryptography work, let’s talk! [communityprivacyteam@protonmail.com](mailto:communityprivacyteam@protonmail.com)
 
 ---
 
 ## 2026 Residency Info
 
 - Dates: July 15 – August 6, 2026
-- Location: Berlin, Germany at [Projektraum Drahnsdorf](http://projektraum-drahnsdorf.de/), a community focusing on sustainability, participatory democracy, and rural revitalisation in Brandenburg.
+- Location: Berlin, Germany at [Projektraum Drahnsdorf](http://projektraum-drahnsdorf.de/), a community focusing on sustainability, participatory democracy, and rural revitalisation.
 
 The Community Privacy Residency convenes experienced practitioners across research, participatory design, community organizing, policy, engineering, cryptography, privacy, security, journalism, activism, and more.
 
-Residents learn, collaborate, and build through open-source research and prototyping focused on real-world community privacy needs. Alongside focused project work, we emphasize community building and cultivating an environment that is rigorous, generative, and compassionate.
-
-The residency is intentionally designed to encourage cross-domain collaboration and learning among experts in their field, develop high-quality open-source outputs, and foster a long-term community that continues beyond the residency.
+The program is intentionally designed to foster cross-domain collaboration and learning among experts in their field, produce high-quality open-source work, and foster a long-term community that continues beyond the residency.
 
 Residents will:
 
 - Collaborate across disciplines on research, co-design, prototyping, and more
 - Learn with and from one another through residency programming and peer-led workshops
 - Develop and publish open-source projects
-- Contribute at least one public-facing output from their residency work (e.g., a workshop, essay/blog post, whitepaper, public research, or open-source project)
-- Participate in one community shift (about 1 hour), helping with things like event setup/cleanup, documentation or recording, space stewarding, or general support for shared programming
 - Join a growing alumni ecosystem of multi-domain experts working at the intersections of technology, privacy, design, and activism
-
-This residency offers:
-
-- Accommodations for all residents
-- Limited travel stipends for non-local residents (subject to available funding)
-- Dedicated environment for collaboration and learning
-- Community building with local privacy and governance groups
 
 ---
 
