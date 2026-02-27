@@ -35,17 +35,24 @@ Residents learn, collaborate, and build through open-source research and prototy
 The residency is intentionally designed to encourage cross-domain collaboration and learning among experts in their field, develop high-quality open-source outputs, and foster a long-term community that continues beyond the residency.
 
 Residents will:
-
 - Collaborate across disciplines on research, co-design, prototyping, and more
 - Learn with and from one another through residency programming and peer-led workshops
 - Develop and publish open-source projects
+- Contribute at least one public-facing output from their residency work (e.g., a workshop, essay/blog post, whitepaper, public research, or open-source project)
+- Participate in one community shift (about 1 hour), helping with things like event setup/cleanup, documentation or recording, space stewarding, or general support for shared programming
 - Join a growing alumni ecosystem of multi-domain experts working at the intersections of technology, privacy, design, and activism
+
+This residency offers:
+- Accommodations for all residents 
+- Limited travel stipends for non-local residents (subject to available funding)
+- Dedicated environment for collaboration and learning
+- Community building with local privacy and governance groups
 
 ---
 
 ## Project Tracks
 
-Our project tracks are meant to be inspirational rather than prescriptive, representing areas of focus for the upcoming residency we believe will be especially pertinent or impactful. Residents are welcome to collaborate on projects beyond these proposed focus areas. More details and example project ideas will be shared when applications open.
+Our project tracks are meant to be inspirational rather than prescriptive, representing areas of focus for the upcoming residency we believe will be especially pertinent or impactful. Residents are welcome to collaborate on projects beyond these proposed focus areas. 
 
 ### >> Countersurveillance
 
