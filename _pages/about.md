@@ -19,7 +19,8 @@ As surveillance technologies proliferate and AI systems reshape how data is coll
 
 **Applications for the Community Privacy Residency 2026 are now open!**
 
-- Deadline: **Sunday, March 29, 2026**
+- Deadline: **Thursday, April 2, 2026** (extended)
+  - Update [3/31/26]: We’ve extended the application deadline from Sunday, March 29
 - **Apply here: [https://tinyurl.com/cpr-app-2026](https://tinyurl.com/cpr-app-2026)**
   - Update [3/3/26]: While CryptPad Forms are end-to-end encrypted, we know it can sometimes have ... usability issues. If you're having trouble loading the application, we recommend refreshing, clearing cache/cookies, or opening the form in Incognito mode. **We have also added an [Airtable form](https://airtable.com/appqz1LytVCVxTw3z/pagA6B1iKJkTXkWzj/form) as an alternative.**
 
@@ -29,7 +30,7 @@ We also welcome community partners, sponsors, and collaborators. If you or your 
 
 ## 2026 Residency Info
 
-- Dates: July 15 – August 6, 2026
+- Dates: July 13 – August 6, 2026
 - Location: Berlin, Germany at [Projektraum Drahnsdorf](http://projektraum-drahnsdorf.de/), a community focusing on sustainability, participatory democracy, and rural revitalisation.
 
 The Community Privacy Residency convenes experienced practitioners across research, participatory design, community organizing, policy, engineering, cryptography, privacy, security, journalism, activism, and more.
