@@ -30,7 +30,7 @@ We also welcome community partners, sponsors, and collaborators. If you or your 
 
 ## 2026 Residency Info
 
-- Dates: July 13 – August 6, 2026
+- Dates: July 15 – August 6, 2026
 - Location: Berlin, Germany at [Projektraum Drahnsdorf](http://projektraum-drahnsdorf.de/), a community focusing on sustainability, participatory democracy, and rural revitalisation.
 
 The Community Privacy Residency convenes experienced practitioners across research, participatory design, community organizing, policy, engineering, cryptography, privacy, security, journalism, activism, and more.
