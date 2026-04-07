@@ -15,16 +15,9 @@ As surveillance technologies proliferate and AI systems reshape how data is coll
 
 ---
 
-## 2026 Applications Open!
+Applications for the 2026 residency are currently closed. Decisions to come sometime loosely around late April to early May. Stay tuned for updates! 
 
-**Applications for the Community Privacy Residency 2026 are now open!**
-
-- Deadline: **Thursday, April 2, 2026** (extended)
-  - Update [3/31/26]: We’ve extended the application deadline from Sunday, March 29.
-- **Apply here: [https://tinyurl.com/cpr-app-2026](https://tinyurl.com/cpr-app-2026)**
-  - Update [3/3/26]: While CryptPad Forms are end-to-end encrypted, we know it can sometimes have ... usability issues. If you're having trouble loading the application, we recommend refreshing, clearing cache/cookies, or opening the form in Incognito mode. **We have also added an [Airtable form](https://airtable.com/appqz1LytVCVxTw3z/pagA6B1iKJkTXkWzj/form) as an alternative.**
-
-We also welcome community partners, sponsors, and collaborators. If you or your organization are interested in supporting or collaborating on community-driven privacy infrastructure and applied cryptography work, let’s talk! [communityprivacyteam@protonmail.com](mailto:communityprivacyteam@protonmail.com)
+We welcome community partners, sponsors, and collaborators. If you or your organization are interested in supporting or collaborating on community-driven privacy infrastructure and applied cryptography work, let’s talk! [communityprivacyteam@protonmail.com](mailto:communityprivacyteam@protonmail.com)
 
 ---
 
