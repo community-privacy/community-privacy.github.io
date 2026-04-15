@@ -15,7 +15,7 @@ As surveillance technologies proliferate and AI systems reshape how data is coll
 
 ---
 
-Applications for the 2026 residency are currently closed. Decisions to come sometime loosely around late April to early May. Stay tuned for updates! 
+Applications for the 2026 residency are currently closed. Decisions to come sometime loosely around late April to early May. Stay tuned for updates!
 
 We welcome community partners, sponsors, and collaborators. If you or your organization are interested in supporting or collaborating on community-driven privacy infrastructure and applied cryptography work, let’s talk! [communityprivacyteam@protonmail.com](mailto:communityprivacyteam@protonmail.com)
 
