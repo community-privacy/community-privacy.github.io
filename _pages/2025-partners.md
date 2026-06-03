@@ -13,7 +13,6 @@ Our deep appreciation goes towards our sponsors for making this residency possib
 
 Want to support our mission? Check out our [OpenCollective fundraiser](https://opencollective.com/community-privacy) for bank transfers and credit cards, [Giveth](https://giveth.io/project/community-privacy-residency) for cryptocurrency, or otherwise [get in touch](/contact)!
 
-- [GCC](https://gccofficial.org/): Funding and supporting the development of global digital public goods.
 - [Privacy & Scaling Explorations](https://pse.dev/): Building free resources for people expanding the world of programmable cryptography.
 - [Ethereum Foundation Ecosystem Support Program](https://esp.ethereum.foundation/): Grants and other support to the builders of the Ethereum ecosystem.
 - [Public Good Crypto](https://publicgoodcrypto.org/): Funds cryptography research to secure the internet and to push digital human rights forward.
