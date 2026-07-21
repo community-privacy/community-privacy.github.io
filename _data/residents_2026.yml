@@ -1,0 +1,67 @@
+- name: Aditi
+  bio: |-
+    Aditi is a researcher, policy advocate, and campaign strategist with 8+ years of experience working on digital justice. She has worked on tech policy in the US, EU, and India, and has researched and written about platform power and antitrust, reproductive data privacy, gig worker surveillance, data stewardship, and algorithmic accountability. Aditi has worked with several tech accountability organizations in the US, including Accountable Tech, Check My Ads Institute, and The Governance Lab at NYU. Aditi was a Fulbright Fellow in India in 2018, and graduated from the University of Southern California with a B.S. in Economics and Mathematics.
+
+- name: Angela Thomas
+  bio: |-
+    I am Angela Thomas, a lawyer and public policy professional working at the intersection of technology, law, and policy, with a focus on digital rights, privacy, data protection, free speech, and net neutrality. At SFLC.in, a digital rights organisation based in India, I lead the organisation’s work on Free Speech and Artificial Intelligence while also contributing to broader research and advocacy projects examining how technology regulation affects fundamental rights. My work involves engaging with policymakers, conducting research, and developing policy recommendations on issues such as platform accountability, online speech, and emerging AI governance frameworks.
+
+- name: Anonymous
+  bio: |-
+    Anonymous is a software engineer, activist, and labor organizer. They participate in multiple activist groups, as well as electoral organizing groups, as a protestor, engineer, and technology coordinator. They are an open source contributor to the Signal Messenger project. They were fired from their job at a big tech company for organizing a union. This was illegal and two federal lawsuits remain pending.
+
+- name: Anonymous
+  bio: |-
+    Software developer at Sutty and Cboard with 7 years of experience building accessible and privacy-respecting tools using free, open-source and decentralized technologies. At Cboard, an open-source Augmentative and Alternative Communication (AAC) platform, they work on tools that help people with communication disabilities express themselves. At Sutty, a Latin American tech cooperative, they build infrastructure for human rights organizations and social movements, with a focus on digital autonomy and sovereignty. Previously contributed to gender policy tech at Argentina's Ministry of Gender, Women and Diversity. With a degree in Electronic Arts from UNTREF, their work sits at the intersection of accessibility, community tech, and digital rights.
+
+- name: Celso Bessa
+  bio: |-
+    Celso Bessa is a public interest technologist and consultant in the nexus of technology, human rights, and democracy. Two times a Tech Exchange Media Democracy Fund (MDF) fellow, he was also a INFUSE Internews 2024, and an Amnesty Security Lab’s Digital Forensics 2025 fellow, and a past member of the Public Interest Technologist (PIT) Network steering committee. Since 2018, he has been advising on and investigating topics such as privacy, freedom of expression, machine learning, accessibility and responsible technology, among others, alongside academics, activists, NGOs and philanthropies.
+
+    He is currently an Open Briefing digital information security consultant, and the founder, research and technical lead at Tecnologia Humanista Institute, dedicated to consensus-based forensic analysis, investigations, and research in technology, democracy, and human rights, as well as audits and training in cybersecurity and information security.
+
+- name: Cora Rowena Ruiz
+  bio: |-
+    Cora Rowena Ruiz is an Electrical Engineering PhD student at the City College of New York, advised by Tushar Jois and Rosario Gennaro. She is a Translational Research Across Disciplines (TREAD) fellow, focused on interdisciplinary research in security and privacy. Her research focuses on protecting vulnerable populations in online spaces, and censorship circumvention.
+
+- name: Gifty Appiah-Adjei
+  bio: |-
+    Gifty Appiah-Adjei (PhD) is an Associate Professor of Journalism and Media Studies at the University of Education, Winneba (Ghana). She has a PhD in Applied Communication from the University of Ibadan and an MPhil in Communication and Media Studies from the University of Education, Winneba. She is affiliated to African Digital Rights Network (ADRN), UNESCO Chairs in Communication (Orbicom), Journalism Safety Research Network (JSRN) and Communication Educators Association of Ghana (CEAG). Her research interest includes Journalism and Digital Technologies; Digital Authoritarianism; Media and Democracy; Information Disorder; Security of Journalists; Press Freedom.
+    Her recent publications include:
+    https://www.bloomsburycollections.com/monograph-detail?docid=b-9781350422117&tocid=b-9781350422117-chapter2
+    https://opendocs.ids.ac.uk/articles/book/Mapping_the_Supply_of_Surveillance_Technologies_to_Africa_Case_Studies_from_Nigeria_Ghana_Morocco_Malawi_and_Zambia/26431414
+
+- name: ioana
+  bio: |-
+    ioana is an eastern european lesbian writer and social justice advocate. she has worked in criminal justice reform at Fair Trials and digital rights at EDRi. she writes fiction for personal and collective liberation.
+
+- name: Kat Phan
+  bio: |-
+    Kat Phan (given name: Phan Xuân Quế Phương) is a Việt organizer, researcher, and theatermaker whose work advances migrant power through digital solidarities and economic liberation. Her theater practices explore Southeast Asian futurities, removed from the grief industrial complex and all forms of empire-making. Most recently, Kat has led campaigns on building public compute power and ending platform surveillance in New York. She received degrees from Stanford University and Princeton University.
+
+- name: Kentrell Owens
+  bio: |-
+    Kentrell Owens is a postdoctoral researcher at the Max Planck Institute for Security and Privacy in Bochum, Germany. His research area is human-centered computer security & privacy, with a specific focus on the risks and harms of surveillance technologies. He attempts to do impactful computer security & privacy research that fulfills his sense of curiosity, justice, and hope.
+
+- name: Krystal
+  bio: |-
+    Krystal is a current PhD student working on isogeny-based cryptography, a promising form of quantum-safe cryptography. She is originally from Trinidad and Tobago, but has lived in Ithaca, Los Angeles, the Bay Area and currently, Burlington, where she plans to complete her PhD by Summer 2026. She is interested in quantum-safe encryption that relies on hardness guarantees from mathematical problems that can be proven difficult for quantum computers to solve. She is also interested in questions that explore cryptanalysis for these protocols using quantum algorithms and nonlocal games.
+
+- name: Lameck Kavuma
+  bio: |-
+    Lameck Kavuma is an AI Researcher at Crane AI Labs and AI Studio Uganda, based in Kampala. His work focuses on open data infrastructure and applied AI for low-resource environments, with particular attention to African contexts. He co-created the Ugandan Cultural Context Benchmark (UCCB), the first African cultural AI benchmark to be adopted into the UK AISI Inspect Evals framework, and leads the development of the Uganda Open Data Platform alongside offline AI tools designed for limited-connectivity settings. His work sits at the intersection of low-resource NLP, public-sector AI deployment, and digital public infrastructure across Africa.
+
+- name: Madelyne Xiao
+  bio: |-
+    Madelyne Xiao is a PhD candidate in computer science at Princeton University. She is broadly interested in online speech, platform governance, and applied cryptography. Current work includes the design and implementation of Synopsis, a privacy-preserving system for content analysis; robustness testing of age assurance systems; and an audit of Twitter/X’s Community Notes. Prior to coming to Princeton, she was an editorial staff member at The New Yorker. She graduated from Stanford University with undergraduate degrees in mathematics and comparative literature.
+
+- name: Miliaku
+  bio: |-
+    Miliaku is a chaos orchestrator, glitch enthusiast, and constellation architect born in Detroit, rooted in Atlanta, but can be found tinkering away in the expanse of liminality. She is queer, black, and Igbo and writes, designs, and dances towards the endings of this world. Relationships are her medium. She is a Data & Society Research Affiliate and 2024-2026 Just Tech Fellow.
+
+- name: Sajad
+  bio: |-
+    Documentary filmmaker, and community practitioner whose work centers on Kashmir and other conflict-affected regions. As a co founder of Kashmir Unheard, he has led community-driven storytelling initiatives that amplify marginalized voices and document issues of land dispossession, governance, and social accountability. His practice combines investigative journalism with participatory media, enabling communities to produce and control their own narratives.
+    Alongside his filmmaking, Sajad develops practical toolkits and training programs to support digital safety, ethical storytelling, and community-led documentation in sensitive environments. His work focuses on equipping grassroots actors with the skills and frameworks needed to navigate surveillance, data vulnerability, and platform risks.
+
+    An Acumen, RSF, Advocacy Assembly, and Bertha Challenge Fellow, Sajad works at the intersection of media, technology, and rights-based advocacy to build resilient and digitally secure communities.
