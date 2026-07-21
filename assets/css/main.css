@@ -25,4 +25,4 @@
  * Tabler Icons 3.16.0 by tabler - https://tabler.io
  * License - https://github.com/tabler/tabler-icons/blob/master/LICENSE
  */@font-face{font-family:"tabler-icons";font-style:normal;font-weight:400;src:url("../fonts/tabler-icons-outline.woff2?v3.16.0") format("woff2"),url("../fonts/tabler-icons-outline.woff?") format("woff"),url("../fonts/tabler-icons-outline.ttf?v3.16.0") format("truetype")}
-.ti{font-family:"tabler-icons"!important;speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.ti-search:before{content:"\eb1c"}.ti-sun-moon:before{content:"\f4a3"}
+.ti{font-family:"tabler-icons"!important;speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.ti-search:before{content:"\eb1c"}.ti-sun-moon:before{content:"\f4a3"}a em,a i{color:inherit}
