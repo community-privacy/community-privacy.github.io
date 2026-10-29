@@ -12,7 +12,7 @@ tags: reflections
 description: three weeks in a Brandenburg farmhouse, and the problems that threw out the textbook threat model
 ---
 
-_Written by voboda. Originally published at [blog.voboda.com](https://blog.voboda.com/community-privacy-residency/) on 13 October 2026; cross-posted with permission._
+_Written by voboda. Originally published at [voboda.com](https://voboda.com/blog/community-privacy-residency/) on 13 October 2026; cross-posted with permission._
 
 > "As soon as you're caught in the room, cryptography won't help you."
 
@@ -50,7 +50,7 @@ A world-class cryptographer sat next to someone on the front lines of a freedom 
 
 On the day people settled on projects, I was tired and behind, and needed more time to read all the poster sessions taped up around the main room.
 
-I'd brought a question with me: which problems really matter now, out in the world? And we'd spent a few days naming real problems from real communities, circulating them, and leaving them for other people to pick up. The idea was to team up around real needs rather than our pet projects. The project I applied with was a way to deliver apps [without depending on centralised app stores](https://blog.voboda.com/webpage-hijacks/). In one group session I asked, "Has anyone heard about [the F-Droid problem with Google's developer ID policy](https://f-droid.org/en/2026/02/24/open-letter-opposing-developer-verification.html)?" Most of the room put their hands up, but it didn't get anyone excited.
+I'd brought a question with me: which problems really matter now, out in the world? And we'd spent a few days naming real problems from real communities, circulating them, and leaving them for other people to pick up. The idea was to team up around real needs rather than our pet projects. The project I applied with was a way to deliver apps [without depending on centralised app stores](https://voboda.com/blog/webpage-hijacks/). In one group session I asked, "Has anyone heard about [the F-Droid problem with Google's developer ID policy](https://f-droid.org/en/2026/02/24/open-letter-opposing-developer-verification.html)?" Most of the room put their hands up, but it didn't get anyone excited.
 
 The guy doing operational security for researchers in South America was standing on his own, and I went over, thinking I'd love to learn from him. Like at university: pick the teacher, not the subject. I could just work on whatever he picked. But he was still undecided. Right beside was an abandoned poster: help journalists working in occupations with phone and device inspection/confiscation. If a journalist teamed up on this, would he be interested? I knew one from the train ride. I walked over and asked. He was in too. So it started with the three of us.
 
@@ -72,7 +72,7 @@ At the end of the week, we had an event in Berlin at the [Casino for Social Medi
 
 Back at the farmhouse, some people could put on headphones and work right through the noise of the main room, with the kitchen next door. Some of us needed quiet. So the hosts let us use a studio above the barn.
 
-That's where we worked out Little Homes, on a whiteboard. Arisu, Karoi, Satoshi and Taka stood in for Alice and Bob, and every step had the cryptographic protocol, the UI and the social graph drawn side by side, to keep them [congruent](https://blog.voboda.com/better-affordances-for-federated-systems/). We broke direct action groups down into roles: leadership, staff, super volunteers, and the general community. The horde!
+That's where we worked out Little Homes, on a whiteboard. Arisu, Karoi, Satoshi and Taka stood in for Alice and Bob, and every step had the cryptographic protocol, the UI and the social graph drawn side by side, to keep them [congruent](https://voboda.com/blog/better-affordances-for-federated-systems/). We broke direct action groups down into roles: leadership, staff, super volunteers, and the general community. The horde!
 
 My collaborator advises direct action groups, and she could tell the security needs they have from the ones they feel. They worry about infiltrators, and about adding the wrong person to a group or posting in the wrong place. [Hegsething themselves](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/). Their more immediate risks are around operational security, data hanging around on insecure devices and that type of thing, but that's not something they tend to see until it's too late. Also chat group membership itself is becoming legal exposure: being in a group where others planned something is used in court to argue you were part of it. We wanted to address all of this.
 
@@ -250,7 +250,7 @@ My favourite moments were one-on-one conversations in some quiet corner of the h
 
 That closeness is what drove us to trade notes as travellers do: what's good, what's bad, what to avoid, what signposts to look out for.
 
-When I got back home, that first show of hands stayed with me. About F-Droid. I'd arrived with a very technical, philosophical, and anti-Google view of my project. The [open letters](https://keepandroidopen.org/open-letter/) on this make the case top-down, in the abstract. So I started asking about the humanitarian impact of Google's developer verification by looking for real people with real stories. That pointed me to evidence about bigger numbers. Hundreds of thousands of people. Then millions. Then billions. I spent weeks on it, constantly pulled deeper as new questions opened up. And wrote it up here: [Google is taking what keeps them alive](https://blog.voboda.com/google-is-taking-what-keeps-them-alive/).
+When I got back home, that first show of hands stayed with me. About F-Droid. I'd arrived with a very technical, philosophical, and anti-Google view of my project. The [open letters](https://keepandroidopen.org/open-letter/) on this make the case top-down, in the abstract. So I started asking about the humanitarian impact of Google's developer verification by looking for real people with real stories. That pointed me to evidence about bigger numbers. Hundreds of thousands of people. Then millions. Then billions. I spent weeks on it, constantly pulled deeper as new questions opened up. And wrote it up here: [Google is taking what keeps them alive](https://voboda.com/blog/google-is-taking-what-keeps-them-alive/).
 
 Engineering problems are objective: physics and math. That's what I'm used to. Most people I met at the residency are working against adversaries. Against other people. That's messier, and it brings an angry energy. Anger's useful though: with a constructive environment to direct it, it clears a path towards something better.
 
