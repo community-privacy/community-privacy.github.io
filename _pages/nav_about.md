@@ -17,8 +17,7 @@ We welcome community partners, sponsors, and collaborators. If you or your organ
 
 ---
 
-## Navigating this site
-{: style="margin-bottom: 1rem"}
+<h2 id="navigating-this-site" style="margin-bottom: 1rem">Navigating this site</h2>
 
 - [Blog](/blog/): Thoughts and reflections from our residents and organizers.
 - [Team](/team): The people who organize and support the residency.
