@@ -8,4 +8,6 @@ dropdown: true
 children:
   - title: Info
     permalink: /2026-about/
+  - title: Partners
+    permalink: /2026-partners/
 ---
