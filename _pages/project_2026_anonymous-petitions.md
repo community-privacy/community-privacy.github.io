@@ -20,6 +20,10 @@ sitemap: false # unlisted: not in nav or sitemap until project members approve
 
 **What's next:** The load-bearing open questions are what a receiving body actually accepts as a valid showing of support, and whether raw DKIM headers can be extracted onto a personal phone at all. We also want to build the system and test it with potential users to identify privacy or usability concerns. We'll need labor lawyers, cryptographers, and mobile engineers to help make this project a reality.
 
+**Artifacts:**
+
+- [Demo Day slides (PDF)]({{ '/assets/projects/2026/anonymous-petitions/demo-day-talk.pdf' | relative_url }})
+
 **Contributors:**
 Kentrell, Voboda, Ying Tong, Janabel
 
