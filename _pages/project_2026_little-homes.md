@@ -3,7 +3,7 @@ layout: page
 permalink: /little-homes/
 title: "Little Homes: Secure Chat for Direct Action Groups"
 nav: false
-published: false # pending approval from project members
+sitemap: false # unlisted: not in nav or sitemap until project members approve
 ---
 
 **Project description:**

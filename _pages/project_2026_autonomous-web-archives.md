@@ -3,7 +3,7 @@ layout: page
 permalink: /autonomous-web-archives/
 title: "Autonomous web archives: Static sites as durable infrastructure for organizations at risk"
 nav: false
-published: false # pending approval from project members
+sitemap: false # unlisted: not in nav or sitemap until project members approve
 ---
 
 **Project description:**

@@ -3,7 +3,7 @@ layout: page
 permalink: /post-quantum-cryptography-sdn/
 title: "Post-Quantum Cryptography (PQC) Project"
 nav: false
-published: false # pending approval from project members
+sitemap: false # unlisted: not in nav or sitemap until project members approve
 ---
 
 **Project description:**

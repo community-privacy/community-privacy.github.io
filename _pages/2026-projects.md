@@ -3,7 +3,7 @@ layout: page
 permalink: /2026-projects/
 title: Projects (2026)
 nav: false
-published: false # pending approval from project members
+sitemap: false # unlisted: not in nav or sitemap until project members approve
 ---
 
 <style>

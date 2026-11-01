@@ -3,7 +3,7 @@ layout: page
 permalink: /safety-international-group-hosting/
 title: "Safety in International Group Hosting Models"
 nav: false
-published: false # pending approval from project members
+sitemap: false # unlisted: not in nav or sitemap until project members approve
 ---
 
 **Project description:**

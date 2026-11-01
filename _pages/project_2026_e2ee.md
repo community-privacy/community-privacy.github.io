@@ -3,7 +3,7 @@ layout: page
 permalink: /interoperable-accessible-e2ee/
 title: "Interoperable and accessible E2EE"
 nav: false
-published: false # pending approval from project members
+sitemap: false # unlisted: not in nav or sitemap until project members approve
 ---
 
 **Project description:**
