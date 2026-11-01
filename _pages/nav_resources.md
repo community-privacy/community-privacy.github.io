@@ -2,7 +2,7 @@
 layout: page
 permalink: /resources/
 title: Resources
-nav: true
+nav: false
 nav_order: 2
 ---
 
