@@ -3,7 +3,6 @@ layout: page
 permalink: /anonymous-petitions/
 title: "Anonymous Petitions"
 nav: false
-sitemap: false # unlisted: not in nav or sitemap until project members approve
 ---
 
 **Project description:**

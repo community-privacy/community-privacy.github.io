@@ -3,7 +3,6 @@ layout: page
 permalink: /garfield-naruto-encoder/
 title: "Garfield-Naruto Encoder V0"
 nav: false
-sitemap: false # unlisted: not in nav or sitemap until project members approve
 ---
 
 **Project description:**

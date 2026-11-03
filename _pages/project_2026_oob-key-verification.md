@@ -3,7 +3,6 @@ layout: page
 permalink: /usable-oob-key-verification/
 title: "Usable Out-of-Band Key Verification"
 nav: false
-sitemap: false # unlisted: not in nav or sitemap until project members approve
 ---
 
 **Project description:**

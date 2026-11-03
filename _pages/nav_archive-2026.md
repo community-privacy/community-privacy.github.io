@@ -10,4 +10,6 @@ children:
     permalink: /2026-about/
   - title: Partners
     permalink: /2026-partners/
+  - title: Projects
+    permalink: /2026-projects/
 ---
